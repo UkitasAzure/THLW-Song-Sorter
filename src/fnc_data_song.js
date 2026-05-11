@@ -111,15 +111,15 @@ const LEGACY_TRACK_TITLE_ABBREV = 5;
 
 var ary_SongData = [
 	//L1 EoSD
-	["Fantasy Telegnosis (Hachimitsu-Lemon)",							new Set([TITLE.BASE]), { title: "BASE", }, "2YMWIDdTleA", "BASE Reimu", ORIGINAL_TRACK, OTHER_THEME],
-	["Love-Colored Master Spark (Tokyo Active NEETs)",					new Set([TITLE.BASE]), { title: "BASE", }, "HcqPZr_prUE", "BASE Marisa", ORIGINAL_TRACK, STAGE_THEME],
-	["Bouquet to the Ashen Duomo (Tokyo Active NEETs)",					new Set([TITLE.BASE]), { title: "BASE", }, "akhUOgt-73o", "BASE Rumia", ORIGINAL_TRACK, BOSS_THEME],
-	["Lunate Elf (Kokyo Active NEETs",		   							new Set([TITLE.BASE]), { title: "BASE", }, "QcfRX1rQRUM", "BASE Daiyousei", ORIGINAL_TRACK, STAGE_THEME],
-	["Kohan Natsukaze Tai (Tokyo Active NEETs",							new Set([TITLE.BASE]), { title: "BASE", }, "7ZNvLwWzatk", "BASE Cirno", ORIGINAL_TRACK, STAGE_THEME],
-	["Sunset of Meiji 17 (Zyukucho (COOL&CREATE))",						new Set([TITLE.BASE]), { title: "BASE", }, "Z6nyZQeMCF8", "BASE Meiling", ORIGINAL_TRACK, BOSS_THEME],
-	["StepIllumination [Garage Refix by Musicarus] (flap+frog)",		new Set([TITLE.BASE]), { title: "BASE", }, "mtL4iFh_UG8", "BASE Koakuma", ORIGINAL_TRACK, STAGE_THEME],
-	["Extratrack [Musicarus Jackin' Remix] (flap+frog)",				new Set([TITLE.BASE]), { title: "BASE", }, "PzbmmORoBPQ", "BASE Patchouli", ORIGINAL_TRACK, BOSS_THEME],
-	["Night of Nights (BeatMario (COOL&CREATE))",						new Set([TITLE.BASE]), { title: "BASE", }, "VHj4LRjxHj0", "BASE Sakuya", ORIGINAL_TRACK, STAGE_THEME],
-	["Heavenly Red (Hachimitsu-Lemon)",									new Set([TITLE.BASE]), { title: "BASE", }, "Q8C3NrW7Qno", "BASE Remilia", ORIGINAL_TRACK, BOSS_THEME],
-	["Saishuu Kichiki Imouto Flandre-S (BeatMario (COOL&CREATE))",		new Set([TITLE.BASE]), { title: "BASE", }, "JKBVhEMlTW8", "BASE Flandre", ORIGINAL_TRACK, STAGE_THEME],
+	["Fantasy Telegnosis (Hachimitsu-Lemon) - Reimu",							new Set([TITLE.BASE]), { title: "BASE", }, "2YMWIDdTleA", "BASE Reimu", ORIGINAL_TRACK, OTHER_THEME],
+	["Love-Colored Master Spark (Tokyo Active NEETs) - Marisa",					new Set([TITLE.BASE]), { title: "BASE", }, "HcqPZr_prUE", "BASE Marisa", ORIGINAL_TRACK, STAGE_THEME],
+	["Bouquet to the Ashen Duomo (Tokyo Active NEETs) - Rumia",					new Set([TITLE.BASE]), { title: "BASE", }, "akhUOgt-73o", "BASE Rumia", ORIGINAL_TRACK, BOSS_THEME],
+	["Lunate Elf (Kokyo Active NEETs) - Daiyousei",		   							new Set([TITLE.BASE]), { title: "BASE", }, "QcfRX1rQRUM", "BASE Daiyousei", ORIGINAL_TRACK, STAGE_THEME],
+	["Kohan Natsukaze Tai (Tokyo Active NEETs) - Cirno",						new Set([TITLE.BASE]), { title: "BASE", }, "7ZNvLwWzatk", "BASE Cirno", ORIGINAL_TRACK, STAGE_THEME],
+	["Sunset of Meiji 17 (Zyukucho (COOL&CREATE)) - Meiling",						new Set([TITLE.BASE]), { title: "BASE", }, "Z6nyZQeMCF8", "BASE Meiling", ORIGINAL_TRACK, BOSS_THEME],
+	["StepIllumination [Garage Refix by Musicarus] (flap+frog) - Koakuma",		new Set([TITLE.BASE]), { title: "BASE", }, "mtL4iFh_UG8", "BASE Koakuma", ORIGINAL_TRACK, STAGE_THEME],
+	["Extratrack [Musicarus Jackin' Remix] (flap+frog) - Patchouli",				new Set([TITLE.BASE]), { title: "BASE", }, "PzbmmORoBPQ", "BASE Patchouli", ORIGINAL_TRACK, BOSS_THEME],
+	["Night of Nights (BeatMario (COOL&CREATE)) - Sakuya",						new Set([TITLE.BASE]), { title: "BASE", }, "VHj4LRjxHj0", "BASE Sakuya", ORIGINAL_TRACK, STAGE_THEME],
+	["Heavenly Red (Hachimitsu-Lemon) - Remilia",									new Set([TITLE.BASE]), { title: "BASE", }, "Q8C3NrW7Qno", "BASE Remilia", ORIGINAL_TRACK, BOSS_THEME],
+	["Saishuu Kichiki Imouto Flandre-S (BeatMario (COOL&CREATE)) - Flandre",		new Set([TITLE.BASE]), { title: "BASE", }, "JKBVhEMlTW8", "BASE Flandre", ORIGINAL_TRACK, STAGE_THEME],
 ];
