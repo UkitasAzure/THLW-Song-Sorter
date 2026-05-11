@@ -110,20 +110,16 @@ const LEGACY_TRACK_TITLE_NAME = 4;
 const LEGACY_TRACK_TITLE_ABBREV = 5;
 
 var ary_SongData = [
-	//The Highly Responsive to Prayers
-	["Fantasy Telegnosis",												new Set([TITLE.L1]), { title: "L1", }, "2YMWIDdTleA", "L1 Reimu", ORIGINAL_TRACK, OTHER_THEME],
+	//L1 EoSD
+	["Fantasy Telegnosis (Hachimitsu-Lemon)",							new Set([TITLE.L1]), { title: "L1", }, "2YMWIDdTleA", "L1 Reimu", ORIGINAL_TRACK, OTHER_THEME],
 	["Love-Colored Master Spark (Tokyo Active NEETs)",					new Set([TITLE.L1]), { title: "L1", }, "HcqPZr_prUE", "L1 Marisa", ORIGINAL_TRACK, STAGE_THEME],
-	["Yin-Yang ~ The Positive and Negative",							new Set([TITLE.L1]), { title: "L1", }, "m1YijI8r4Co", "SinGyoku's theme", ORIGINAL_TRACK, BOSS_THEME],
-	["A Soul Devoted to the Gods ~ Highly Responsive to Prayers",		new Set([TITLE.L1]), { title: "L1", }, "g0cYXgHbgDs", "Makai Route 6-9", ORIGINAL_TRACK, STAGE_THEME],
-	["Eastern Tale of Fancy",											new Set([TITLE.L1]), { title: "L1", }, "r8rKghqP6nI", "Jigoku Route 6-9", ORIGINAL_TRACK, STAGE_THEME],
-	["Angel's Legend",													new Set([TITLE.L1]), { title: "L1", }, "C1JN3_Db_UA", "YuugenMagan and Mima's theme", ORIGINAL_TRACK, BOSS_THEME],
-	["Oriental Magician",												new Set([TITLE.L1]), { title: "L1", }, "K9QNaB5tzKw", "Makai Route 11-14", ORIGINAL_TRACK, STAGE_THEME],
-	["Magic Mirror (Makai ver.)",										new Set([TITLE.L1]), { title: "L1", }, "XGN6LIvvbOs", "Elis's theme", ORIGINAL_TRACK, BOSS_THEME],
-	["Small Evil-Crushing Blade",										new Set([TITLE.L1]), { title: "L1", }, "gDhx3VdG0vE", "Jigoku Route 11-14", ORIGINAL_TRACK, STAGE_THEME],
-	["Magic Mirror (Jigoku ver.)",										new Set([TITLE.L1]), { title: "L1", }, "kMIQAcvue3w", "Kikuri's theme", ORIGINAL_TRACK, BOSS_THEME],
-	["the Legend of KAGE",												new Set([TITLE.L1]), { title: "L1", }, "IC1BX1JGpYs", "Makai Route 16-19", ORIGINAL_TRACK, STAGE_THEME],
-	["Now, Until the Moment You Die",									new Set([TITLE.L1]), { title: "L1", }, "nrQyDGtn4J4", "Sariel's theme", ORIGINAL_TRACK, BOSS_THEME],
-	["Theme of Turning to Hell",										new Set([TITLE.L1]), { title: "L1", }, "Aity5B07Lzk", "Sariel's 2nd theme", ORIGINAL_TRACK, BOSS_THEME],
-	["Angel of a Distant Star ~ The \"★Alice-in-Wonderland\" Angel",	new Set([TITLE.L1]), { title: "L1", }, "kvplZDb3KWY", "Konngara's theme", ORIGINAL_TRACK, BOSS_THEME],
-	["Iris",															new Set([TITLE.L1]), { title: "L1", }, "bukPDXuwzCA", "Ending", ORIGINAL_TRACK, OTHER_THEME],
+	["Bouquet to the Ashen Duomo (Tokyo Active NEETs)",					new Set([TITLE.L1]), { title: "L1", }, "akhUOgt-73o", "L1 Rumia", ORIGINAL_TRACK, BOSS_THEME],
+	["Lunate Elf (Kokyo Active NEETs",		   							new Set([TITLE.L1]), { title: "L1", }, "QcfRX1rQRUM", "L1 Daiyousei", ORIGINAL_TRACK, STAGE_THEME],
+	["Kohan Natsukaze Tai (Tokyo Active NEETs",							new Set([TITLE.L1]), { title: "L1", }, "7ZNvLwWzatk", "L1 Cirno", ORIGINAL_TRACK, STAGE_THEME],
+	["Sunset of Meiji 17 (Zyukucho (COOL&CREATE))",						new Set([TITLE.L1]), { title: "L1", }, "Z6nyZQeMCF8", "L1 Meiling", ORIGINAL_TRACK, BOSS_THEME],
+	["StepIllumination [Garage Refix by Musicarus] (flap+frog)",		new Set([TITLE.L1]), { title: "L1", }, "mtL4iFh_UG8", "L1 Koakuma", ORIGINAL_TRACK, STAGE_THEME],
+	["Extratrack [Musicarus Jackin' Remix] (flap+frog)",				new Set([TITLE.L1]), { title: "L1", }, "PzbmmORoBPQ", "L1 Patchouli", ORIGINAL_TRACK, BOSS_THEME],
+	["Night of Nights (BeatMario (COOL&CREATE))",						new Set([TITLE.L1]), { title: "L1", }, "VHj4LRjxHj0", "L1 Sakuya", ORIGINAL_TRACK, STAGE_THEME],
+	["Heavenly Red (Hachimitsu-Lemon)",									new Set([TITLE.L1]), { title: "L1", }, "Q8C3NrW7Qno", "L1 Remilia", ORIGINAL_TRACK, BOSS_THEME],
+	["Saishuu Kichiki Imouto Flandre-S (BeatMario (COOL&CREATE))",		new Set([TITLE.L1]), { title: "L1", }, "JKBVhEMlTW8", "L1 Flandre", ORIGINAL_TRACK, STAGE_THEME],
 ];
