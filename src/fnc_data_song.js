@@ -158,6 +158,7 @@ var ary_SongData = [
 	["Metal-esque Lunatic Eyes (O-LIFE JAPAN) - L1 Reisen",								new Set([TITLE.IN]), { title: "IN", }, "9pvmDp6JGko", "L1 Reisen", ORIGINAL_TRACK, BOSS_THEME],
 	["Galaxy in a Pot (Butaotome) - L1 Eirin",											new Set([TITLE.IN]), { title: "IN", }, "MXv8ofCK6AI", "L1 Eirin", ORIGINAL_TRACK, BOSS_THEME],
 	["HELP ME ERINNNNNN!! (BeatMario (COOL&CREATE)) - L1 Kaguya",						new Set([TITLE.IN]), { title: "IN", }, "Mj4TwUQfMWQ", "L1 Kaguya", ORIGINAL_TRACK, BOSS_THEME],
+	["HAKURO (Sound Refil)) - L1A Keine",												new Set([TITLE.IN]), { title: "IN", }, "VA5zeSGJiF4", "L1A Keine", ORIGINAL_TRACK, BOSS_THEME],
 	["Monpe Guardian (O-LIFE JAPAN) - L1 Mokou",										new Set([TITLE.IN]), { title: "IN", }, "mQl0nErhmzw", "L1 Mokou", ORIGINAL_TRACK, BOSS_THEME],
 
 	//L1 POFV
