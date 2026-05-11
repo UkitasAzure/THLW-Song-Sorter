@@ -34,6 +34,21 @@ const deepFreeze = obj => {
 const TITLE = deepFreeze({
 	EOSD: { name: "EOSD Characters", image: "fZ2BDUV.jpg", shortName: "EOSD Characters", abbrev: "EOSD", },
 	PCB: { name: "PCB Characters", image: "fZ2BDUV.jpg", shortName: "PCB Characters", abbrev: "PCB", },
+	IN: { name: "IN Characters", image: "fZ2BDUV.jpg", shortName: "IN Characters", abbrev: "IN", },
+	POFV: { name: "POFV Characters", image: "fZ2BDUV.jpg", shortName: "POFV Characters", abbrev: "POFV", },
+	MOF: { name: "MOF Characters", image: "fZ2BDUV.jpg", shortName: "MOF Characters", abbrev: "MOF", },
+	SA: { name: "SA Characters", image: "fZ2BDUV.jpg", shortName: "SA Characters", abbrev: "SA", },
+	UFO: { name: "UFO Characters", image: "fZ2BDUV.jpg", shortName: "UFO Characters", abbrev: "UFO", },
+	TD: { name: "TD Characters", image: "fZ2BDUV.jpg", shortName: "TD Characters", abbrev: "TD", },
+	DDC: { name: "DDC Characters", image: "fZ2BDUV.jpg", shortName: "DDC Characters", abbrev: "DDC", },
+	LOLK: { name: "LOLK Characters", image: "fZ2BDUV.jpg", shortName: "LOLK Characters", abbrev: "LOLK", },
+	HSIFS: { name: "HSIFS Characters", image: "fZ2BDUV.jpg", shortName: "HSIFS Characters", abbrev: "HSIFS", },
+	WBAWC: { name: "WBAWC Characters", image: "fZ2BDUV.jpg", shortName: "WBAWC Characters", abbrev: "WBAWC", },
+	UM: { name: "UM Characters", image: "fZ2BDUV.jpg", shortName: "UM Characters", abbrev: "UM", },
+	UDOALG: { name: "UDOALG Characters", image: "fZ2BDUV.jpg", shortName: "UDOALG Characters", abbrev: "UDOALG", },
+	FW: { name: "FW Characters", image: "fZ2BDUV.jpg", shortName: "FW Characters", abbrev: "FW", },
+	SPINOFFS: { name: "Spinoffs Characters", image: "fZ2BDUV.jpg", shortName: "Spinoffs Characters", abbrev: "SPINOFFS", },
+	PRINTS: { name: "Print Works Characters", image: "fZ2BDUV.jpg", shortName: "Print Works Characters", abbrev: "PRINTS", },
 	RETRO: { name: "Retro Festival", image: "XHi6YmD.jpg", shortName: "Retro Festival", abbrev: "Retro", },
 	UFES: { name: "Ultra Festival", image: "Imp5ltX.jpg", shortName: "Ultra Festival", abbrev: "UFes", },
 	MV: { name: "Relics and Music Videos", image: "9Bgvih5.jpg", shortName: "Relic/MV", abbrev: "Relic/MV", },
@@ -74,7 +89,7 @@ const getTitleData = function (songTitleDataObj) {
 }
 
 const CATEGORY = deepFreeze({
-	L1: { name: "L1 Universe", titles: ["EOSD", "PCB"], height: "340px", },
+	L1: { name: "L1 Universe", titles: ["EOSD", "PCB", "IN", "POFV", "MOF", "SA", "UFO", "TD", "DDC", "LOLK", "HSIFS", "WBAWC", "UM", "UDOALG", "FW", "SPINOFFS", "PRINTS"], height: "340px", },
 	Multiverses: { name: "Other Multiverses", titles: ["RETRO", "UFES", "MV", "EXFES", "EPIC", "MV", "PFES", "MM", "BP", "UY"], height: "120px", },
 	Others: { name: "Others", titles: ["STORY", "STAGE", "OTHERS"], height: "120px", },
 });
@@ -134,5 +149,4 @@ var ary_SongData = [
 	["BORDER OF STRIKE (BeatMario (COOL&CREATE)) - Yuyuko",								new Set([TITLE.PCB]), { title: "PCB", }, "pdxGMoyETgY", "L1 Yuyuko", ORIGINAL_TRACK, BOSS_THEME],
 	["Indigo Dance (Melodic Taste) - Ran",												new Set([TITLE.PCB]), { title: "PCB", }, "pdxGMoyETgY", "L1 Ran", ORIGINAL_TRACK, BOSS_THEME],
 	["Danmaku Breakdown (BeatMario (COOL&CREATE)) - Yukari",							new Set([TITLE.PCB]), { title: "PCB", }, "glCWsdU0okc", "L1 Yukari", ORIGINAL_TRACK, BOSS_THEME],
-
 ];
