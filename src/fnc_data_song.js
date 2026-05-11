@@ -126,7 +126,7 @@ var ary_SongData = [
 	//L1 PCB
 	["WHITE WIREPULLER (BeatMario (COOL&CREATE) - Letty",							new Set([TITLE.L1]), { title: "L1", }, "PX9nLxTyKSs", "L1 Letty", ORIGINAL_TRACK, OTHER_THEME],
 	["The Troublesome Black Cat's Travelogue (ShibayanRecords, O-LIFE JAPAN) - Chen",					new Set([TITLE.L1]), { title: "L1", }, "ZdO5p9LaVn0", "L1 Chen", ORIGINAL_TRACK, STAGE_THEME],
-	["Iris (Foxtail-Grass Studio) - Alice",					new Set([TITLE.L1]), { title: "L1", }, "tzDdQaT8xQE-73o", "L1 Alice", ORIGINAL_TRACK, BOSS_THEME],
+	["Iris (Foxtail-Grass Studio) - Alice",					new Set([TITLE.L1]), { title: "L1", }, "tzDdQaT8xQE", "L1 Alice", ORIGINAL_TRACK, BOSS_THEME],
 	["Path by the Murmuring Stream (Foxtail-Grass Studio) - Lily White",		   							new Set([TITLE.L1]), { title: "L1", }, "Fp3AgbW6C7w", "L1 Lily White", ORIGINAL_TRACK, STAGE_THEME],
 	["Ghostly Band ~ Phantom Ensemble (Kokyo Active NEETs) - Prismriver Sister",						new Set([TITLE.L1]), { title: "L1", }, "pzjW24W_o_E", "L1 Prismriver Sisters", ORIGINAL_TRACK, STAGE_THEME],
 	["Unpaid Gardener (O-LIFE JAPAN) - Youmu",						new Set([TITLE.L1]), { title: "L1", }, "aW6-FgwqMi0", "L1 Youmu", ORIGINAL_TRACK, BOSS_THEME],
