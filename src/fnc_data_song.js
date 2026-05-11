@@ -111,7 +111,7 @@ const LEGACY_TRACK_TITLE_ABBREV = 5;
 
 var ary_SongData = [
 	//The Highly Responsive to Prayers
-	["A Sacred Lot",													new Set([TITLE.HRtP]), { title: "HRtP", }, "npxlRewhh4g", "Title Screen", ORIGINAL_TRACK, OTHER_THEME],
+	["Fantasy Telegnosis",													new Set([TITLE.L1]), { title: "L1", }, "2YMWIDdTleA", "L1 Reimu", ORIGINAL_TRACK, OTHER_THEME],
 	["Eternal Shrine Maiden",											new Set([TITLE.HRtP]), { title: "HRtP", }, "EXVAhxYNW9M", "Stages 1-4/Jigoku Route 16-19", ORIGINAL_TRACK, STAGE_THEME],
 	["Yin-Yang ~ The Positive and Negative",							new Set([TITLE.HRtP]), { title: "HRtP", }, "m1YijI8r4Co", "SinGyoku's theme", ORIGINAL_TRACK, BOSS_THEME],
 	["A Soul Devoted to the Gods ~ Highly Responsive to Prayers",		new Set([TITLE.HRtP]), { title: "HRtP", }, "g0cYXgHbgDs", "Makai Route 6-9", ORIGINAL_TRACK, STAGE_THEME],
