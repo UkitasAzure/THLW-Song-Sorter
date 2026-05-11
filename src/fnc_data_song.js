@@ -46,7 +46,7 @@ const TITLE = deepFreeze({
 	WBAWC: { name: "WBAWC Characters", image: "fZ2BDUV.jpg", shortName: "WBAWC Characters", abbrev: "WBAWC", },
 	UM: { name: "UM Characters", image: "fZ2BDUV.jpg", shortName: "UM Characters", abbrev: "UM", },
 	UDOALG: { name: "UDOALG Characters", image: "fZ2BDUV.jpg", shortName: "UDOALG Characters", abbrev: "UDOALG", },
-	FW: { name: "FW Characters", image: "fZ2BDUV.jpg", shortName: "FW Characters", abbrev: "FW", },
+	FW: { name: "FW Characters (Placeholder)", image: "fZ2BDUV.jpg", shortName: "FW Characters", abbrev: "FW", },
 	SPINOFFS: { name: "Spinoffs Characters", image: "fZ2BDUV.jpg", shortName: "Spinoffs Characters", abbrev: "SPINOFFS", },
 	PRINTS: { name: "Print Works Characters", image: "fZ2BDUV.jpg", shortName: "Print Works Characters", abbrev: "PRINTS", },
 	RETRO: { name: "Retro Festival", image: "XHi6YmD.jpg", shortName: "Retro Festival", abbrev: "Retro", },
