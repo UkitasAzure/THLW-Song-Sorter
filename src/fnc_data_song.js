@@ -52,6 +52,7 @@ const TITLE = deepFreeze({
 	RETRO: { name: "Retro Festival", image: "XHi6YmD.jpg", shortName: "Retro Festival", abbrev: "Retro", },
 	UFES: { name: "Ultra Festival", image: "Imp5ltX.jpg", shortName: "Ultra Festival", abbrev: "UFes", },
 	MV: { name: "Relics and Music Videos", image: "9Bgvih5.jpg", shortName: "Relic/MV", abbrev: "Relic/MV", },
+	GENIC: { name: "Genic Characters", image: "9Bgvih5.jpg", shortName: "Genic", abbrev: "Genic", },
 	EXFES: { name: "EX Festival", image: "8YV2A7P.jpg", shortName: "EX Festial", abbrev: "EXFes", },
 	EPIC: { name: "Epic", image: "eyprldJ.jpg", shortName: "Epic", abbrev: "Epic", },
 	PFES: { name: "Pure Festival", image: "60c5lGk.jpg", shortName: "Pure Festival", abbrev: "PFes", },
@@ -90,7 +91,7 @@ const getTitleData = function (songTitleDataObj) {
 
 const CATEGORY = deepFreeze({
 	L1: { name: "L1 Universe", titles: ["EOSD", "PCB", "IN", "POFV", "MOF", "SA", "UFO", "TD", "DDC", "LOLK", "HSIFS", "WBAWC", "UM", "UDOALG", "FW", "SPINOFFS", "PRINTS"], height: "240px", },
-	Multiverses: { name: "Other Multiverses", titles: ["RETRO", "UFES", "MV", "EXFES", "EPIC", "MV", "PFES", "MM", "BP", "UY"], height: "120px", },
+	Multiverses: { name: "Other Multiverses", titles: ["RETRO", "UFES", "MV", "GENIC", "EXFES", "EPIC", "MV", "PFES", "MM", "BP", "UY"], height: "120px", },
 	Others: { name: "Others", titles: ["STORY", "STAGE", "OTHERS"], height: "120px", },
 });
 
@@ -150,6 +151,9 @@ var ary_SongData = [
 	["Indigo Dance (Melodic Taste) - L1 Ran",												new Set([TITLE.PCB]), { title: "PCB", }, "pdxGMoyETgY", "L1 Ran", ORIGINAL_TRACK, BOSS_THEME],
 	["Danmaku Breakdown (BeatMario (COOL&CREATE)) - L1 Yukari",								new Set([TITLE.PCB]), { title: "PCB", }, "glCWsdU0okc", "L1 Yukari", ORIGINAL_TRACK, BOSS_THEME],
 
+	//IAMP
+	["After The Festival (Hachimitsu-Lemon) - L1 Suika",								new Set([TITLE.SPINOFFS]), { title: "SPINOFFS", }, "sW9hdMUdGgw", "L1 Suika", ORIGINAL_TRACK, BOSS_THEME],
+
 	//L1 IN
 	["Running Through The Firefly Wind (Foxtail-Grass Studio) - L1 Wriggle",			new Set([TITLE.IN]), { title: "IN", }, "K7H1g1jJxFU", "L1 Wriggle", ORIGINAL_TRACK, BOSS_THEME],
 	["Metal-esque Deaf to All but the Song (O-LIFE JAPAN) - L1 Mystia",					new Set([TITLE.IN]), { title: "IN", }, "z2Ekcg-8-jQ", "L1 Mystia", ORIGINAL_TRACK, BOSS_THEME],
@@ -167,4 +171,29 @@ var ary_SongData = [
 	["Gensokyo, Past and Present (Tokyo Active NEETs) - L1 Yuuka",						new Set([TITLE.POFV]), { title: "POFV", }, "AN6SjDkfQmM", "L1 Yuuka", ORIGINAL_TRACK, BOSS_THEME],
 	["Raging Sanzu River (BeatMario (COOL&CREATE)) - L1 Komachi",		   				new Set([TITLE.POFV]), { title: "POFV", }, "S_g_0XZty-g", "L1 Komachi", ORIGINAL_TRACK, BOSS_THEME],
 	["Judgement Days (BeatMario (COOL&CREATE)) - L1 Eiki",								new Set([TITLE.POFV]), { title: "POFV", }, "kUcfl16ArKE", "L1 Eiki", ORIGINAL_TRACK, BOSS_THEME],
+
+	//L1 MOF
+	["October Harvest Romantica (Butaotome) - L1 Shizuha",								new Set([TITLE.MOF]), { title: "MOF", }, "T6F8bq8173A", "L1 Shizuha", ORIGINAL_TRACK, BOSS_THEME],
+	["Grilled Autumn Flavors (Butaotome) - L1 Minoriko",								new Set([TITLE.MOF]), { title: "MOF", }, "fT3__o2jSdw", "L1 Minoriko", ORIGINAL_TRACK, BOSS_THEME],
+	["Scars of the Gods (Tokyo Active NEETs) - L1 Hina",								new Set([TITLE.MOF]), { title: "MOF", }, "Rrbd6PXW3s8", "L1 Hina", ORIGINAL_TRACK, BOSS_THEME],
+	["Kappa Doki Doki (Zykucho (COOL&CREATE)) - L1 Nitori",		   						new Set([TITLE.MOF]), { title: "MOF", }, "Pur5yrmrSLU", "L1 Nitori", ORIGINAL_TRACK, BOSS_THEME],
+	["A Rather Enjoyable Waterfall Life (O-LIFE JAPAN) - L1 Momiji",					new Set([TITLE.MOF]), { title: "MOF", }, "PqeVkC0zMeI", "L1 Momiji", ORIGINAL_TRACK, BOSS_THEME],
+	["Since Lady Sanae Won't Let Me (Melodic Taste) - L1 Sanae",						new Set([TITLE.MOF]), { title: "MOF", }, "DPQlBXR1xdI", "L1 Sanae", ORIGINAL_TRACK, BOSS_THEME],
+	["The Pillars Only I Shook (Zykucho (COOL&CREATE)) - L1 Kanako",					new Set([TITLE.MOF]), { title: "MOF", }, "RBDb-wqqUQs", "L1 Kanako", ORIGINAL_TRACK, BOSS_THEME],
+	["Last Boss'n (Zykucho (COOL&CREATE)) - L1 Suwako",									new Set([TITLE.MOF]), { title: "MOF", }, "Wh7ri4p7KA0", "L1 Suwako", ORIGINAL_TRACK, BOSS_THEME],
+
+	//L1 SWR
+	["Flame from the Black Sea (IRON ATTACK) - L1 Iku",									new Set([TITLE.SPINOFFS]), { title: "SPINOFFS", }, "DJR1OL4EI-o", "L1 Iku", ORIGINAL_TRACK, BOSS_THEME],
+	["Metal-esque Catastrophe in Bhava-Agra (O-LIFE JAPAN) - L1 Tenshi",				new Set([TITLE.SPINOFFS]), { title: "SPINOFFS", }, "IVTbo5Bs-XQ", "L1 Tenshi", ORIGINAL_TRACK, BOSS_THEME],
+
+	//L1 SA
+	["The Illusory Air Hole ~ Loop Place (Tokyo Active NEETs) - L1 Kisume",				new Set([TITLE.SA]), { title: "SA", }, "atxA8fQ6yWs", "L1 Kisume", ORIGINAL_TRACK, BOSS_THEME],
+	["Forbidden Yamametal ~ Theme of Yamame (Zykucho (COOL&CREATE)) - L1 Yamame",		new Set([TITLE.SA]), { title: "SA", }, "1FZAt4F0mXk", "L1 Yamame", ORIGINAL_TRACK, BOSS_THEME],
+	["Green Limits (IOSYS) - L1 Parsee",												new Set([TITLE.SA]), { title: "SA", }, "hCYxJ2WkqMk", "L1 Parsee", ORIGINAL_TRACK, BOSS_THEME],
+	["Sakazuki ~ Theme of Yuugi (Zykucho (COOL&CREATE)) - L1 Yuugi",		   			new Set([TITLE.SA]), { title: "SA", }, "dJ-9_KH5IZk", "L1 Yuugi", ORIGINAL_TRACK, BOSS_THEME],
+	["Satori Musou (BeatMario (COOL&CREATE)) - L1 Satori",								new Set([TITLE.SA]), { title: "SA", }, "i5w6cnqnQIw", "L1 Satori", ORIGINAL_TRACK, BOSS_THEME],
+	["Metal-esque Corpse Voyage (O-LIFE JAPAN) - L1 Rin",								new Set([TITLE.SA]), { title: "SA", }, "FcR00PHHnak", "L1 Rin", ORIGINAL_TRACK, BOSS_THEME],
+	["Metal-esque Solar Sect of Nuclear Wisdom (O-LIFE JAPAN) - L1 Utsuho",				new Set([TITLE.SA]), { title: "SA", }, "Ng5h92MDggU", "L1 Utsuho", ORIGINAL_TRACK, BOSS_THEME],
+	["Awakening ~ Theme of Koishi (Zykucho (COOL&CREATE)) - L1 Koishi",					new Set([TITLE.SA]), { title: "SA", }, "Jnjl6XkLJx0", "L1 Koishi", ORIGINAL_TRACK, BOSS_THEME],
+
 ];
