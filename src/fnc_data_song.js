@@ -250,12 +250,12 @@ var ary_SongData = [
 	["GREED (AramiTama) - Yuuma",														new Set([TITLE.L1]), { title: "L1", }, "sf9HBTyjOas", "L1 Yuuma", ORIGINAL_TRACK, BOSS_THEME],
 
 	//L1 UM
-	["LUCKY CAT [Instrumental] (Chocofan) - Mike",										new Set([TITLE.L1]), { title: "L1", }, "dg7bNKnfMC0", "L1 Mike", ORIGINAL_TRACK, BOSS_THEME],
-	["Forbidden Yamametal ~ Theme of Yamame (Zykucho (COOL&CREATE)) - Yamame",			new Set([TITLE.L1]), { title: "L1", }, "1FZAt4F0mXk", "L1 Takane", ORIGINAL_TRACK, BOSS_THEME],
+	["LUCKY CAT [Instrumental] (Chocofan) - Mike",										new Set([TITLE.L1]), { title: "L1", }, "-9cGZMiQz_g", "L1 Mike", ORIGINAL_TRACK, BOSS_THEME],
+	["GREEN (Para-Dot) - Takane",														new Set([TITLE.L1]), { title: "L1", }, "Dv4K7TvxYLI", "L1 Takane", ORIGINAL_TRACK, BOSS_THEME],
 	["Sharp Edge [Instrumental] (DiGiTAL WiNG) - Sannyo",								new Set([TITLE.L1]), { title: "L1", }, "K5_6GorxiJw", "L1 Sannyo", ORIGINAL_TRACK, BOSS_THEME],
 	["INKYA and YOKYA RAVE [Instrumental] (DiGiTAL WiNG) - Misumaru",		   			new Set([TITLE.L1]), { title: "L1", }, "EDqzDVNuZxE", "L1 Misumaru", ORIGINAL_TRACK, BOSS_THEME],
 	["Stargazing at Underground (AramiTama) - Tsukasa",									new Set([TITLE.L1]), { title: "L1", }, "048IxaB-X8U", "L1 Tsukasa", ORIGINAL_TRACK, BOSS_THEME],
-	["Metal-esque Corpse Voyage (O-LIFE JAPAN) - Rin",									new Set([TITLE.L1]), { title: "L1", }, "FcR00PHHnak", "L1 Megumu", ORIGINAL_TRACK, BOSS_THEME],
+	["dawngazer (Para-Dot) - Megumu",													new Set([TITLE.L1]), { title: "L1", }, "ZeWO-7qWkZw", "L1 Megumu", ORIGINAL_TRACK, BOSS_THEME],
 	["Last Day (Para-Dot) - Chimata",													new Set([TITLE.L1]), { title: "L1", }, "GN_5HF9KmBo", "L1 Chimata", ORIGINAL_TRACK, BOSS_THEME],
 	["Get The Truth [Instrumental] (K2E+Cradle) - Momoyo",								new Set([TITLE.L1]), { title: "L1", }, "nPwQ3s8GOts", "L1 Momoyo", ORIGINAL_TRACK, BOSS_THEME],
 
