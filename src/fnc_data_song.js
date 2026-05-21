@@ -283,4 +283,56 @@ var ary_SongData = [
 	["La Belle Au Bois Dormant (flap+frog) - Kasen",									new Set([TITLE.L1]), { title: "L1", }, "BkbRTFCvURg", "L1 Kasen", ORIGINAL_TRACK, BOSS_THEME],
 	["Suzurine (AramiTama) - Kosuzu",													new Set([TITLE.L1]), { title: "L1", }, "QEdT_eg06rM", "L1 Kosuzu", ORIGINAL_TRACK, BOSS_THEME],
 	["21nHAND (Cajiva's Gadget Shop) - Ibaraki-Douji's Arm",							new Set([TITLE.L1]), { title: "L1", }, "rdB8HrZ2VPk", "L1 Kasen Arm", ORIGINAL_TRACK, BOSS_THEME],
+
+	//PFes
+	["Again in the Dream (Foxtail-Grass Studio) - L0g Sanae",							new Set([TITLE.PFES]), { title: "PFES", }, "O8CA5riK7_M", "L0g Sanae", ORIGINAL_TRACK, BOSS_THEME],
+	["Yasaka Oldest W4 (flap+frog) - L0g Kanako",										new Set([TITLE.PFES]), { title: "PFES", }, "ZxalSdo66Eg", "L0g Kanako", ORIGINAL_TRACK, BOSS_THEME],
+	["Shizukana Shizukana Native Faith (Marasy) - L0g Suwako",							new Set([TITLE.PFES]), { title: "PFES", }, "Y_QWXOgpjVY", "L0g Suwako", ORIGINAL_TRACK, BOSS_THEME],
+	["Eyes in the Darkness (Hachimitsu-Lemon) - L0o Satori",		   					new Set([TITLE.PFES]), { title: "PFES", }, "0wUAXMYokSE", "L0o Satori", ORIGINAL_TRACK, BOSS_THEME],
+	["end of emptiness (Melodic Taste) - L0o Koishi",									new Set([TITLE.PFES]), { title: "PFES", }, "xFTiTtHWDlY", "L0o Koishi", ORIGINAL_TRACK, BOSS_THEME],
+
+	//Masterminds
+	["Magic Evolve (DiGiTAL WiNG) - D8 Marisa",											new Set([TITLE.MM]), { title: "MM", }, "qZwAgiZzKn8", "D8 Marisa", ORIGINAL_TRACK, BOSS_THEME],
+
+	//Ultra Yukkuris
+	["Magic of Endearing (IOSYS) - Az1 Yukkuri Marisa",									new Set([TITLE.UY]), { title: "UY", }, "7SMM9EQP3vg", "Az1 Yukkuri Marisa", ORIGINAL_TRACK, BOSS_THEME],
+
+	//Aya Pass
+	["Fluctuating Boundaries ~ Piano String Quartet (TAMUSIC) - L25ws Yukari",			new Set([TITLE.BP]), { title: "BP", }, "32siQ6rR_tM", "L25ws Yukari", ORIGINAL_TRACK, BOSS_THEME],
+	["Love is a Polygon (Cajiva's Gadget Shop) - L50ws Yukari",							new Set([TITLE.BP]), { title: "BP", }, "hBCrstmc-H4", "L50ws Yukari", ORIGINAL_TRACK, BOSS_THEME],
+	["Clear Candy (Para-Dot) - B3;6 Eirin",												new Set([TITLE.BP]), { title: "BP", }, "zXRlWYMhqvU", "B3;6 Eirin", ORIGINAL_TRACK, BOSS_THEME],
+	["Violet Flavour (AramiTama) - D8.-5 Marisa",		   								new Set([TITLE.BP]), { title: "BP", }, "ZjG1atpCfHI", "D8.-5 Marisa", ORIGINAL_TRACK, BOSS_THEME],
+	["Scarlet Sabbath (IRON ATTACK) - D8.-5 Remilia",									new Set([TITLE.BP]), { title: "BP", }, "vWi3EUJ2P6c", "D8.-5 Remilia", ORIGINAL_TRACK, BOSS_THEME],
+	["Circus Crisis (Ganeme) - D8.-5 Flandre",											new Set([TITLE.BP]), { title: "BP", }, "iSrRPSm4c6E", "D8.-5 Flandre", ORIGINAL_TRACK, BOSS_THEME],
+	["ラスト・ブレイド・メイド (YushiNoki) - E1;4 Sakuya",								new Set([TITLE.BP]), { title: "BP", }, "sLDLu_-X-yg", "E1;4 Sakuya", ORIGINAL_TRACK, BOSS_THEME],
+	["Daily Life in the Alcove (Foxtail-Grass Studio) - F1;4 Reimu",					new Set([TITLE.BP]), { title: "BP", }, "JCA2-8CEj3Y", "F1;4 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Agartha Sans Pro Condensed (flap+frog) - F1.-5 Sanae",		   					new Set([TITLE.BP]), { title: "BP", }, "8fNo_eqesG0", "F1.-5 Sanae", ORIGINAL_TRACK, BOSS_THEME],
+	["fading response (Melodic Taste) - H5;7 Yuuka",									new Set([TITLE.BP]), { title: "BP", }, "-AnEavIjd9U", "H5;7 Yuuka", ORIGINAL_TRACK, BOSS_THEME],
+	["Dreamscape -Kasho no Yume nekomix- (nekomimi style) - R2.-5 Yuyuko",				new Set([TITLE.BP]), { title: "BP", }, "W0Eib5SHL2I", "R2.-5 Yuyuko", ORIGINAL_TRACK, BOSS_THEME],
+	["Katana of Bravery (O-LIFE JAPAN) - R8.-5 Youmu",									new Set([TITLE.BP]), { title: "BP", }, "Irvjc7eL0l4", "R8.-5 Youmu", ORIGINAL_TRACK, BOSS_THEME],
+	["Tispy Pixels (Sound Square) - W1;4 Suika",		   								new Set([TITLE.BP]), { title: "BP", }, "i4Ei50dRa9s", "W1;4 Suika", ORIGINAL_TRACK, BOSS_THEME],
+	["Petals on the path (Aftergrow) - W2.-5 Suwako",									new Set([TITLE.BP]), { title: "BP", }, "K1jmS0mfELY", "W2.-5 Suwako", ORIGINAL_TRACK, BOSS_THEME],
+
+	//RETRO A6
+	["Girl's Sleeping Song ~ Dream Battle (Marasy) - A6 Reimu",							new Set([TITLE.RETRO]), { title: "RETRO", }, "_RWy7EJ5AQk", "A6 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Starlight (flap+frog) - A6 Marisa",												new Set([TITLE.RETRO]), { title: "RETRO", }, "l01BhER_KeQ", "A6 Marisa", ORIGINAL_TRACK, BOSS_THEME],
+	["Zakuro Syndrome (Morimori Atsushi) - A6 Rumia",									new Set([TITLE.RETRO]), { title: "RETRO", }, "mvf3oEn4Xlk", "A6 Rumia", ORIGINAL_TRACK, BOSS_THEME],
+	["Lunate Elf (Marasy) - A6 Daiyousei",												new Set([TITLE.RETRO]), { title: "RETRO", }, "X4akcv6ZzVQ", "A6 Daiyousei", ORIGINAL_TRACK, BOSS_THEME],
+	["Icicle Bomb (DiGiTAL WiNG) - A6 Cirno",											new Set([TITLE.RETRO]), { title: "RETRO", }, "pe_DDJdrwWU", "A6 Cirno", ORIGINAL_TRACK, BOSS_THEME],
+	["Chinese Gatekeeper Girl Meiling [Karaoke Ver] - A6 Meiling",						new Set([TITLE.RETRO]), { title: "RETRO", }, "FYrNZsk56Y0", "A6 Meiling", ORIGINAL_TRACK, BOSS_THEME],
+	["Journey Medley School ~ Scarlet STAGE 4 (Zykucho (COOL&CREATE)) - A6 Koakuma",	new Set([TITLE.RETRO]), { title: "RETRO", }, "hB8Cy8SJBWg", "A6 Koakuma", ORIGINAL_TRACK, BOSS_THEME],
+	["HEPT-GRAM (Morimori Atsushi & Uma) - A6 Patchouli",								new Set([TITLE.RETRO]), { title: "RETRO", }, "6JkccYZRN_s", "A6 Patchouli", ORIGINAL_TRACK, BOSS_THEME],
+	["Illusion (Hachimitsu-Lemon x Aftergrow) - A6 Sakuya",								new Set([TITLE.RETRO]), { title: "RETRO", }, "uL7T2XAUDIU", "A6 Sakuya", ORIGINAL_TRACK, BOSS_THEME],
+	["Overwhelm (Melodic Taste) - A6 Remilia",											new Set([TITLE.RETRO]), { title: "RETRO", }, "ehzJdEHHULc", "A6 Remilia", ORIGINAL_TRACK, BOSS_THEME],
+	["Unfound (Morimori Atsushi) - A6 Flandre",											new Set([TITLE.RETRO]), { title: "RETRO", }, "BoSYTUWcEAE", "A6 Flandre", ORIGINAL_TRACK, BOSS_THEME],
+	["Alice of Alice (Melodic Taste) - A6 Alice",										new Set([TITLE.RETRO]), { title: "RETRO", }, "bKtkAw9UY8E", "A6 Alice", ORIGINAL_TRACK, BOSS_THEME],
+	["Gig the Alternative (IOSYS) - A6 Lunasa",											new Set([TITLE.RETRO]), { title: "RETRO", }, "YFSwsy2thnU", "A6 Lunasa", ORIGINAL_TRACK, BOSS_THEME],
+	["Phantom Phannk Orchestra (IRON ATTACK) - A6 Merlin",								new Set([TITLE.RETRO]), { title: "RETRO", }, "7h1WoMkETj0", "A6 Merlin", ORIGINAL_TRACK, BOSS_THEME],
+	["Playing with the Rainbow Sounds (Tokyo Active NEETs) - A6 Lyrica",				new Set([TITLE.RETRO]), { title: "RETRO", }, "qHL7HsexJ9c", "A6 Lyrica", ORIGINAL_TRACK, BOSS_THEME],
+	["Ancient Groove (Amateras Records) - A6 Youmu",									new Set([TITLE.RETRO]), { title: "RETRO", }, "mlyjMFiwhoc", "A6 Youmu", ORIGINAL_TRACK, BOSS_THEME],
+	["Party Yuyuko (Morimori Atsushi) - A6 Yuyuko",										new Set([TITLE.RETRO]), { title: "RETRO", }, "tBgve_nVvrY", "A6 Yuyuko", ORIGINAL_TRACK, BOSS_THEME],
+	["Dynamite (Amateras Records) - A6 Yukari",											new Set([TITLE.RETRO]), { title: "RETRO", }, "6Bthaswp0BE", "A6 Yukari", ORIGINAL_TRACK, BOSS_THEME],
+	["Velvet Night Falls (Butaotome) - A6 Yuuka",										new Set([TITLE.RETRO]), { title: "RETRO", }, "nqRJ4L4NtEI", "A6 Yuuka", ORIGINAL_TRACK, BOSS_THEME],
+	["Bhavaagra Incidents (Morimori Atsushi) - A6 Tenshi",								new Set([TITLE.RETRO]), { title: "RETRO", }, "FkuM7hGMxzA", "A6 Tenshi", ORIGINAL_TRACK, BOSS_THEME],
+	["Raikou [Instrumental] (Zikee (SOUND HOLIC)) - A6 Sunny",							new Set([TITLE.RETRO]), { title: "RETRO", }, "7nOgdcOB7R4", "A6 Sunny", ORIGINAL_TRACK, BOSS_THEME],
 ];
