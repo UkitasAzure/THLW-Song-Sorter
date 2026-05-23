@@ -479,4 +479,11 @@ var ary_SongData = [
 	["Solitary Flower (Touhou LostWord feat. Hitomi Yaida × Hatsunetsumiko's) - MV Rumia",						new Set([TITLE.MV]), { title: "MV", }, "iw-3XzbRxI8", "MV Rumia", ORIGINAL_TRACK, BOSS_THEME],
 	["Dazzling Good Day (Touhou LostWord feat. Kavka Shishido × Butaotome) - MV Joon",							new Set([TITLE.MV]), { title: "MV", }, "QDUmCqh5Gqg", "MV Joon", ORIGINAL_TRACK, BOSS_THEME],
 	["Sine Nomine (Touhou LostWord feat. Annabel × Tiao ye tsung / Diao ye zong) - MV Daiyousei",				new Set([TITLE.MV]), { title: "MV", }, "G6KESmBRUhw", "MV Daiyousei", ORIGINAL_TRACK, BOSS_THEME],
+
+	//GENIC
+	["Dream of the Demon World (Butaotome) - Renko & Shinki",													new Set([TITLE.GENIC]), { title: "GENIC", }, "AWJLb_j6t8I", "Renko & Shinki", ORIGINAL_TRACK, BOSS_THEME],
+	["Tsuki Matoi-Tsuki Madoe (TUMENECO) - Renko & Gengetsu",													new Set([TITLE.GENIC]), { title: "GENIC", }, "eY_iiikdX18", "Renko & Gengetsu", ORIGINAL_TRACK, BOSS_THEME],
+	["Unseen Yet (Diao Ye Zong) - Maribel & Mima",																new Set([TITLE.GENIC]), { title: "GENIC", }, "MbHUqkuo-vA", "Maribel & Mima", ORIGINAL_TRACK, BOSS_THEME],
+	["Dream Observer (Honey Pocket) - Maribel & Mugetsu",														new Set([TITLE.GENIC]), { title: "GENIC", }, "HlvAl03WrZI", "Maribel & Mugetsu", ORIGINAL_TRACK, BOSS_THEME],
+
 ];	
