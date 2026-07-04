@@ -38,6 +38,7 @@ const TITLE = deepFreeze({
 	MV: { name: "Relics and Music Videos", image: "9Bgvih5.jpg", shortName: "Relic/MV", abbrev: "Relic/MV", },
 	GENIC: { name: "Genic Characters", image: "9Bgvih5.jpg", shortName: "Genic", abbrev: "Genic", },
 	EXFES: { name: "EX Festival", image: "8YV2A7P.jpg", shortName: "EX Festial", abbrev: "EXFes", },
+	PH: { name: "PH Festival", image: "n1inkfk.jpg", shortName: "PH Festival", abbrev: "PH", },
 	EPIC: { name: "Epic", image: "eyprldJ.jpg", shortName: "Epic", abbrev: "Epic", },
 	PFES: { name: "Pure Festival", image: "60c5lGk.jpg", shortName: "Pure Festival", abbrev: "PFes", },
 	MM: { name: "Mastermind", image: "LohRYHX.jpg", shortName: "Mastermind", abbrev: "MM", },
@@ -45,7 +46,7 @@ const TITLE = deepFreeze({
 	UY: { name: "Ultra Yukkuri", image: "aZAL5nF.jpg", shortName: "Ultra Yukkuri", abbrev: "UY", },
 	STORY: { name: "Story Theme", image: "X0DDCGf.jpg", shortName: "Story Theme", abbrev: "Story", },
 	STAGE: { name: "Stage Theme", image: "c3yK3I6.jpg", shortName: "Stage Theme", abbrev: "Stage", },
-	OTHERS: { name: "Others", image: "9mxFAor.jpg", shortName: "Others", abbrev: "Others", },
+	OTHERS: { name: "Others (Collabs & Misc)", image: "9mxFAor.jpg", shortName: "Others", abbrev: "Others", },
 
 });
 
@@ -266,8 +267,8 @@ var ary_SongData = [
 	["The Path to Yomi Where None Turn Back (Mormimori Atsushi & Uma)",		   			new Set([TITLE.L1]), { title: "L1", }, "QmjmsNk_a_Q", "L1 Hisami", ORIGINAL_TRACK, BOSS_THEME],
 	["Advance Nothingness (YushiNoki) - Zanmu",											new Set([TITLE.L1]), { title: "L1", }, "NdJ5IaU_JIk", "L1 Zanmu", ORIGINAL_TRACK, BOSS_THEME],
 
-	//L1 FW (PLACEHOLDER)
-	//["The Fairy Dreams of Midwinter (O-LIFE JAPAN) - Ubame",						new Set([TITLE.L1]), { title: "L1", }, "Yk5EToySs3Q", "L1 Ubame", ORIGINAL_TRACK, BOSS_THEME],
+	//L1 FW
+	["think of me (mondorium) - Ubame",													new Set([TITLE.L1]), { title: "L1", }, "42ki7KdWMO8", "L1 Ubame", ORIGINAL_TRACK, BOSS_THEME],
 	//["Yamanba's Six Attacks (Zyukucho (COOL&CREATE)) - Chimi",						new Set([TITLE.L1]), { title: "L1", }, "t2S6Ox0Ro6Y", "L1 Chimi", ORIGINAL_TRACK, BOSS_THEME],
 	//["Red Pair Melody (Zyukucho (COOL&CREATE)) - Nareko",								new Set([TITLE.L1]), { title: "L1", }, "f-uQtRgK2rI", "L1 Nareko", ORIGINAL_TRACK, BOSS_THEME],
 	//["Running Jizo (Zyukucho (COOL&CREATE)) - Yuiman",		   							new Set([TITLE.L1]), { title: "L1", }, "W56AwYgFETE", "L1 Yuiman", ORIGINAL_TRACK, BOSS_THEME],
@@ -304,9 +305,10 @@ var ary_SongData = [
 	["Violet Flavour (AramiTama) - D8.-5 Marisa",		   								new Set([TITLE.BP]), { title: "BP", }, "ZjG1atpCfHI", "D8.-5 Marisa", ORIGINAL_TRACK, BOSS_THEME],
 	["Scarlet Sabbath (IRON ATTACK) - D8.-5 Remilia",									new Set([TITLE.BP]), { title: "BP", }, "vWi3EUJ2P6c", "D8.-5 Remilia", ORIGINAL_TRACK, BOSS_THEME],
 	["Circus Crisis (Ganeme) - D8.-5 Flandre",											new Set([TITLE.BP]), { title: "BP", }, "iSrRPSm4c6E", "D8.-5 Flandre", ORIGINAL_TRACK, BOSS_THEME],
-	["ラスト・ブレイド・メイド (YushiNoki) - E1;4 Sakuya",								new Set([TITLE.BP]), { title: "BP", }, "sLDLu_-X-yg", "E1;4 Sakuya", ORIGINAL_TRACK, BOSS_THEME],
+	["Last Blade Maid (YushiNoki) - E1;4 Sakuya",										new Set([TITLE.BP]), { title: "BP", }, "sLDLu_-X-yg", "E1;4 Sakuya", ORIGINAL_TRACK, BOSS_THEME],
 	["Daily Life in the Alcove (Foxtail-Grass Studio) - F1;4 Reimu",					new Set([TITLE.BP]), { title: "BP", }, "JCA2-8CEj3Y", "F1;4 Reimu", ORIGINAL_TRACK, BOSS_THEME],
 	["Agartha Sans Pro Condensed (flap+frog) - F1.-5 Sanae",		   					new Set([TITLE.BP]), { title: "BP", }, "8fNo_eqesG0", "F1.-5 Sanae", ORIGINAL_TRACK, BOSS_THEME],
+	["ラブリー♥スターシップ (Hachimitsu Lemon) - F1.-4 Koishi",		   					new Set([TITLE.BP]), { title: "BP", }, "Ecbly_Cd0JU", "F1.-4 Koishi", ORIGINAL_TRACK, BOSS_THEME],
 	["fading response (Melodic Taste) - H5;7 Yuuka",									new Set([TITLE.BP]), { title: "BP", }, "-AnEavIjd9U", "H5;7 Yuuka", ORIGINAL_TRACK, BOSS_THEME],
 	["Dreamscape -Kasho no Yume nekomix- (nekomimi style) - R2.-5 Yuyuko",				new Set([TITLE.BP]), { title: "BP", }, "W0Eib5SHL2I", "R2.-5 Yuyuko", ORIGINAL_TRACK, BOSS_THEME],
 	["Katana of Bravery (O-LIFE JAPAN) - R8.-5 Youmu",									new Set([TITLE.BP]), { title: "BP", }, "Irvjc7eL0l4", "R8.-5 Youmu", ORIGINAL_TRACK, BOSS_THEME],
@@ -437,8 +439,12 @@ var ary_SongData = [
 	["Splash Around (Rolling Contact) - A17& Flandre",									new Set([TITLE.EXFES]), { title: "EXFES", }, "mG9zz9CGvQI", "A17& Flandre", ORIGINAL_TRACK, BOSS_THEME],
 	["Psychotic Tightrope (Asomosphere) - A17& Eika",									new Set([TITLE.EXFES]), { title: "EXFES", }, "R7KQM0HfJ-g", "A17& Eika", ORIGINAL_TRACK, BOSS_THEME],
 	["Seraphim (Chilled Sweet Regret) - A17.5& Kutaka",									new Set([TITLE.EXFES]), { title: "EXFES", }, "r-OjU6hAO0M", "A17.5& Kutaka", ORIGINAL_TRACK, BOSS_THEME],
+	["FEED THE BEAT (K2E+Cradle) - A17.5& Yuuma",										new Set([TITLE.EXFES]), { title: "EXFES", }, "4LBMM326oGg", "A17.5& Yuuma", ORIGINAL_TRACK, BOSS_THEME],
 	["Arc Relics (Mahotoa Tofu) - A18& Misumaru",										new Set([TITLE.EXFES]), { title: "EXFES", }, "WfHqLrQTwkY", "A18& Misumaru", ORIGINAL_TRACK, BOSS_THEME],
 	["Endstation (ZYTOKINE) - A19& Sanae",												new Set([TITLE.EXFES]), { title: "EXFES", }, "m5hAy0qj224", "A19& Sanae", ORIGINAL_TRACK, BOSS_THEME],
+
+	//PH
+	["O-N-Y-X (Reset All Controllers) - A6æ Rumia",										new Set([TITLE.PH]), { title: "PH", }, "MzmVNT7ZKXg", "A6æ Rumia", ORIGINAL_TRACK, BOSS_THEME],
 
 	//MV
 	["Lost Word Chronicle (Comp (Butaotome))",																	new Set([TITLE.MV]), { title: "MV", }, "2YMWIDdTleA", "LW Theme Song", ORIGINAL_TRACK, BOSS_THEME],
@@ -485,5 +491,29 @@ var ary_SongData = [
 	["Tsuki Matoi-Tsuki Madoe (TUMENECO) - Renko & Gengetsu",													new Set([TITLE.GENIC]), { title: "GENIC", }, "eY_iiikdX18", "Renko & Gengetsu", ORIGINAL_TRACK, BOSS_THEME],
 	["Unseen Yet (Diao Ye Zong) - Maribel & Mima",																new Set([TITLE.GENIC]), { title: "GENIC", }, "MbHUqkuo-vA", "Maribel & Mima", ORIGINAL_TRACK, BOSS_THEME],
 	["Dream Observer (Honey Pocket) - Maribel & Mugetsu",														new Set([TITLE.GENIC]), { title: "GENIC", }, "HlvAl03WrZI", "Maribel & Mugetsu", ORIGINAL_TRACK, BOSS_THEME],
+
+	//UFES
+	["Akaku Somarina (Zykucho (COOL&CREATE)) - Lr Flandre",														new Set([TITLE.UFES]), { title: "UFES", }, "mCkO8enssIA", "Lr Flandre", ORIGINAL_TRACK, BOSS_THEME],
+	["Flutter (Hachimitsu-Lemon) - Lr Aya",																		new Set([TITLE.UFES]), { title: "UFES", }, "UFDgy_sZMfE", "Lr Aya", ORIGINAL_TRACK, BOSS_THEME],
+	["PROPELLER [take2] (flap+frog) - Lr Nitori",																new Set([TITLE.UFES]), { title: "UFES", }, "u5PzahyCWiQ", "Lr Nitori", ORIGINAL_TRACK, BOSS_THEME],
+	["But It Goes On (.New Label) - Lr Tenshi",																	new Set([TITLE.UFES]), { title: "UFES", }, "OYtJeOaGtfE", "Lr Tenshi", ORIGINAL_TRACK, BOSS_THEME],
+	["Emotional Effusion (Melodic Taste) - Lr Kokoro",															new Set([TITLE.UFES]), { title: "UFES", }, "I5kjyfgRGB0", "Lr Kokoro", ORIGINAL_TRACK, BOSS_THEME],
+	["Sacred Fury (Afterglow) - Lr Ibaraki Douji's Arm",														new Set([TITLE.UFES]), { title: "UFES", }, "9tUMKSmHV4E", "Lr Arm", ORIGINAL_TRACK, BOSS_THEME],
+	["Gunslinger (Rolling Contact) - B1 Reisen",																new Set([TITLE.UFES]), { title: "UFES", }, "6_iPtQnkM-k", "B1 Reisen", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B2 Junko",												new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B2 Junko", ORIGINAL_TRACK, BOSS_THEME],
+	["Special Power of Exposing Moonlit Nights? [Karaoke Ver] (IOSYS) - B3 Reimu",								new Set([TITLE.UFES]), { title: "UFES", }, "Ah8Eg1nTMA8", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",											new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",												new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",											new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",											new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",												new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",											new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",											new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",												new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",											new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",											new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	
+	
+	
 
 ];	
