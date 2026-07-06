@@ -121,20 +121,20 @@ var ary_SongData = [
 	["Sunset of Meiji 17 (Zyukucho (COOL&CREATE)) - Meiling",							new Set([TITLE.L1]), { title: "L1", }, "Z6nyZQeMCF8", "L1 Meiling", ORIGINAL_TRACK, BOSS_THEME],
 	["StepIllumination [Garage Refix by Musicarus] (flap+frog) - Koakuma",				new Set([TITLE.L1]), { title: "L1", }, "mtL4iFh_UG8", "L1 Koakuma", ORIGINAL_TRACK, BOSS_THEME],
 	["Extratrack [Musicarus Jackin' Remix] (flap+frog) - Patchouli",					new Set([TITLE.L1]), { title: "L1", }, "PzbmmORoBPQ", "L1 Patchouli", ORIGINAL_TRACK, BOSS_THEME],
-	["Night of Nights (BeatMario (COOL&CREATE)) - Sakuya",								new Set([TITLE.L1]), { title: "L1", }, "VHj4LRjxHj0", "L1 Sakuya", ORIGINAL_TRACK, BOSS_THEME],
+	["Night of Nights (beatMARIO (COOL&CREATE)) - Sakuya",								new Set([TITLE.L1]), { title: "L1", }, "VHj4LRjxHj0", "L1 Sakuya", ORIGINAL_TRACK, BOSS_THEME],
 	["Heavenly Red (Hachimitsu-Lemon) - Remilia",										new Set([TITLE.L1]), { title: "L1", }, "Q8C3NrW7Qno", "L1 Remilia", ORIGINAL_TRACK, BOSS_THEME],
-	["Saishuu Kichiki Imouto Flandre-S (BeatMario (COOL&CREATE)) - Flandre",			new Set([TITLE.L1]), { title: "L1", }, "JKBVhEMlTW8", "L1 Flandre", ORIGINAL_TRACK, BOSS_THEME],
+	["Saishuu Kichiki Imouto Flandre-S (beatMARIO (COOL&CREATE)) - Flandre",			new Set([TITLE.L1]), { title: "L1", }, "JKBVhEMlTW8", "L1 Flandre", ORIGINAL_TRACK, BOSS_THEME],
 
 	//L1 PCB
-	["WHITE WIREPULLER (BeatMario (COOL&CREATE) - Letty",								new Set([TITLE.L1]), { title: "L1", }, "PX9nLxTyKSs", "L1 Letty", ORIGINAL_TRACK, BOSS_THEME],
+	["WHITE WIREPULLER (beatMARIO (COOL&CREATE) - Letty",								new Set([TITLE.L1]), { title: "L1", }, "PX9nLxTyKSs", "L1 Letty", ORIGINAL_TRACK, BOSS_THEME],
 	["The Troublesome Black Cat's Travelogue (ShibayanRecords, O-LIFE JAPAN) - Chen",	new Set([TITLE.L1]), { title: "L1", }, "ZdO5p9LaVn0", "L1 Chen", ORIGINAL_TRACK, BOSS_THEME],
 	["Iris (Foxtail-Grass Studio) - Alice",												new Set([TITLE.L1]), { title: "L1", }, "tzDdQaT8xQE", "L1 Alice", ORIGINAL_TRACK, BOSS_THEME],
 	["Path by the Murmuring Stream (Foxtail-Grass Studio) - Lily White",		   		new Set([TITLE.L1]), { title: "L1", }, "Fp3AgbW6C7w", "L1 Lily White", ORIGINAL_TRACK, BOSS_THEME],
 	["Ghostly Band ~ Phantom Ensemble (Kokyo Active NEETs) - Prismriver Sister",		new Set([TITLE.L1]), { title: "L1", }, "pzjW24W_o_E", "L1 Lunasa, L1 Merlin, L1 Lyrica", ORIGINAL_TRACK, BOSS_THEME],
 	["Unpaid Gardener (O-LIFE JAPAN) - Youmu",											new Set([TITLE.L1]), { title: "L1", }, "aW6-FgwqMi0", "L1 Youmu", ORIGINAL_TRACK, BOSS_THEME],
-	["BORDER OF STRIKE (BeatMario (COOL&CREATE)) - Yuyuko",								new Set([TITLE.L1]), { title: "L1", }, "pdxGMoyETgY", "L1 Yuyuko", ORIGINAL_TRACK, BOSS_THEME],
+	["BORDER OF STRIKE (beatMARIO (COOL&CREATE)) - Yuyuko",								new Set([TITLE.L1]), { title: "L1", }, "pdxGMoyETgY", "L1 Yuyuko", ORIGINAL_TRACK, BOSS_THEME],
 	["Indigo Dance (Melodic Taste) - Ran",												new Set([TITLE.L1]), { title: "L1", }, "pdxGMoyETgY", "L1 Ran", ORIGINAL_TRACK, BOSS_THEME],
-	["Danmaku Breakdown (BeatMario (COOL&CREATE)) - Yukari",							new Set([TITLE.L1]), { title: "L1", }, "glCWsdU0okc", "L1 Yukari", ORIGINAL_TRACK, BOSS_THEME],
+	["Danmaku Breakdown (beatMARIO (COOL&CREATE)) - Yukari",							new Set([TITLE.L1]), { title: "L1", }, "glCWsdU0okc", "L1 Yukari", ORIGINAL_TRACK, BOSS_THEME],
 
 	//IAMP
 	["After The Festival (Hachimitsu-Lemon) - Suika",									new Set([TITLE.L1]), { title: "L1", }, "sW9hdMUdGgw", "L1 Suika", ORIGINAL_TRACK, BOSS_THEME],
@@ -142,11 +142,11 @@ var ary_SongData = [
 	//L1 IN
 	["Running Through The Firefly Wind (Foxtail-Grass Studio) - Wriggle",				new Set([TITLE.L1]), { title: "L1", }, "K7H1g1jJxFU", "L1 Wriggle", ORIGINAL_TRACK, BOSS_THEME],
 	["Metal-esque Deaf to All but the Song (O-LIFE JAPAN) - Mystia",					new Set([TITLE.L1]), { title: "L1", }, "z2Ekcg-8-jQ", "L1 Mystia", ORIGINAL_TRACK, BOSS_THEME],
-	["Crazy Keine (BeatMario (COOL&CREATE)) - Keine",									new Set([TITLE.L1]), { title: "L1", }, "w-2qjqRPgeE", "L1 Keine", ORIGINAL_TRACK, BOSS_THEME],
+	["Crazy Keine (beatMARIO (COOL&CREATE)) - Keine",									new Set([TITLE.L1]), { title: "L1", }, "w-2qjqRPgeE", "L1 Keine", ORIGINAL_TRACK, BOSS_THEME],
 	["Sunset Circus (Butaotome) - Tewi",		   										new Set([TITLE.L1]), { title: "L1", }, "7urtQ8fSXRs", "L1 Tewi", ORIGINAL_TRACK, BOSS_THEME],
 	["Metal-esque Lunatic Eyes (O-LIFE JAPAN) - Reisen",								new Set([TITLE.L1]), { title: "L1", }, "9pvmDp6JGko", "L1 Reisen", ORIGINAL_TRACK, BOSS_THEME],
 	["Galaxy in a Pot (Butaotome) - Eirin",												new Set([TITLE.L1]), { title: "L1", }, "MXv8ofCK6AI", "L1 Eirin", ORIGINAL_TRACK, BOSS_THEME],
-	["HELP ME ERINNNNNN!! (BeatMario (COOL&CREATE)) - Kaguya",							new Set([TITLE.L1]), { title: "L1", }, "Mj4TwUQfMWQ", "L1 Kaguya", ORIGINAL_TRACK, BOSS_THEME],
+	["HELP ME ERINNNNNN!! (beatMARIO (COOL&CREATE)) - Kaguya",							new Set([TITLE.L1]), { title: "L1", }, "Mj4TwUQfMWQ", "L1 Kaguya", ORIGINAL_TRACK, BOSS_THEME],
 	["HAKURO (Sound Refil) - Hakutaku Keine",											new Set([TITLE.L1]), { title: "L1", }, "VA5zeSGJiF4", "L1A Keine", ORIGINAL_TRACK, BOSS_THEME],
 	["Monpe Guardian (O-LIFE JAPAN) - Mokou",											new Set([TITLE.L1]), { title: "L1", }, "mQl0nErhmzw", "L1 Mokou", ORIGINAL_TRACK, BOSS_THEME],
 
@@ -154,8 +154,8 @@ var ary_SongData = [
 	["Life of a Tengu (Tokyo Active NEETs) - Aya",										new Set([TITLE.L1]), { title: "L1", }, "EDlLC4G5Jz4", "L1 Aya", ORIGINAL_TRACK, BOSS_THEME],
 	["One More Doll (Butaotome) - Medicine",											new Set([TITLE.L1]), { title: "L1", }, "gyMsrBIpehQ", "L1 Medicine", ORIGINAL_TRACK, BOSS_THEME],
 	["Gensokyo, Past and Present (Tokyo Active NEETs) - Yuuka",							new Set([TITLE.L1]), { title: "L1", }, "AN6SjDkfQmM", "L1 Yuuka", ORIGINAL_TRACK, BOSS_THEME],
-	["Raging Sanzu River (BeatMario (COOL&CREATE)) - Komachi",		   					new Set([TITLE.L1]), { title: "L1", }, "S_g_0XZty-g", "L1 Komachi", ORIGINAL_TRACK, BOSS_THEME],
-	["Judgement Days (BeatMario (COOL&CREATE)) - Eiki",									new Set([TITLE.L1]), { title: "L1", }, "kUcfl16ArKE", "L1 Eiki", ORIGINAL_TRACK, BOSS_THEME],
+	["Raging Sanzu River (beatMARIO (COOL&CREATE)) - Komachi",		   					new Set([TITLE.L1]), { title: "L1", }, "S_g_0XZty-g", "L1 Komachi", ORIGINAL_TRACK, BOSS_THEME],
+	["Judgement Days (beatMARIO (COOL&CREATE)) - Eiki",									new Set([TITLE.L1]), { title: "L1", }, "kUcfl16ArKE", "L1 Eiki", ORIGINAL_TRACK, BOSS_THEME],
 
 	//L1 MOF
 	["October Harvest Romantica (Butaotome) - Shizuha",									new Set([TITLE.L1]), { title: "L1", }, "T6F8bq8173A", "L1 Shizuha", ORIGINAL_TRACK, BOSS_THEME],
@@ -176,7 +176,7 @@ var ary_SongData = [
 	["Forbidden Yamametal ~ Theme of Yamame (Zyukucho (COOL&CREATE)) - Yamame",			new Set([TITLE.L1]), { title: "L1", }, "1FZAt4F0mXk", "L1 Yamame", ORIGINAL_TRACK, BOSS_THEME],
 	["Green Limits (IOSYS) - Parsee",													new Set([TITLE.L1]), { title: "L1", }, "hCYxJ2WkqMk", "L1 Parsee", ORIGINAL_TRACK, BOSS_THEME],
 	["Sakazuki ~ Theme of Yuugi (Zyukucho (COOL&CREATE)) - Yuugi",		   				new Set([TITLE.L1]), { title: "L1", }, "dJ-9_KH5IZk", "L1 Yuugi", ORIGINAL_TRACK, BOSS_THEME],
-	["Satori Musou (BeatMario (COOL&CREATE)) - Satori",									new Set([TITLE.L1]), { title: "L1", }, "i5w6cnqnQIw", "L1 Satori", ORIGINAL_TRACK, BOSS_THEME],
+	["Satori Musou (beatMARIO (COOL&CREATE)) - Satori",									new Set([TITLE.L1]), { title: "L1", }, "i5w6cnqnQIw", "L1 Satori", ORIGINAL_TRACK, BOSS_THEME],
 	["Metal-esque Corpse Voyage (O-LIFE JAPAN) - Rin",									new Set([TITLE.L1]), { title: "L1", }, "FcR00PHHnak", "L1 Rin", ORIGINAL_TRACK, BOSS_THEME],
 	["Metal-esque Solar Sect of Nuclear Wisdom (O-LIFE JAPAN) - Utsuho",				new Set([TITLE.L1]), { title: "L1", }, "Ng5h92MDggU", "L1 Utsuho", ORIGINAL_TRACK, BOSS_THEME],
 	["Awakening ~ Theme of Koishi (Zyukucho (COOL&CREATE)) - Koishi",					new Set([TITLE.L1]), { title: "L1", }, "Jnjl6XkLJx0", "L1 Koishi", ORIGINAL_TRACK, BOSS_THEME],
@@ -200,7 +200,7 @@ var ary_SongData = [
 	["Down in the Mausoleum (Tokyo Active NEETs) - Tojiko",		   						new Set([TITLE.L1]), { title: "L1", }, "7WINm5MgQRA", "L1 Tojiko", ORIGINAL_TRACK, BOSS_THEME],
 	["Infidel Extermination (O-LIFE JAPAN) - Futo",										new Set([TITLE.L1]), { title: "L1", }, "WW-djztw-Kw", "L1 Futo", ORIGINAL_TRACK, BOSS_THEME],
 	["True Administrator (Tokyo Active NEETs) - Miko",									new Set([TITLE.L1]), { title: "L1", }, "QnAM8OlPV8o", "L1 Miko", ORIGINAL_TRACK, BOSS_THEME],
-	["Sado Mami Holic (BeatMario (COOL&CREATE)) - Mamizou",								new Set([TITLE.L1]), { title: "L1", }, "HQreevmuZ5Q", "L1 Mamizou", ORIGINAL_TRACK, BOSS_THEME],
+	["Sado Mami Holic (beatMARIO (COOL&CREATE)) - Mamizou",								new Set([TITLE.L1]), { title: "L1", }, "HQreevmuZ5Q", "L1 Mamizou", ORIGINAL_TRACK, BOSS_THEME],
 
 	//HM
 	["Invisible Passion (O-LIFE JAPAN) - Kokoro",										new Set([TITLE.L1]), { title: "L1", }, "TXHId9tCRY0", "L1 Kokoro", ORIGINAL_TRACK, BOSS_THEME],
@@ -348,10 +348,10 @@ var ary_SongData = [
 	["Snow Stream (Francois' Yomogi Farm) - A7 Cirno",									new Set([TITLE.RETRO]), { title: "RETRO", }, "ZJmCKo_2dQk", "A7 Cirno", ORIGINAL_TRACK, BOSS_THEME],
 	["Moonlight Fairy Dance (Francois' Yomogi Farm) - A7 Luna",							new Set([TITLE.RETRO]), { title: "RETRO", }, "-kqHfQ0L0X8", "A7 Luna", ORIGINAL_TRACK, BOSS_THEME],
 	["Goodnight Serenade (Butaotome) - A7A Reimu",										new Set([TITLE.RETRO]), { title: "RETRO", }, "PvVvdKX9okU", "A7A Reimu", ORIGINAL_TRACK, BOSS_THEME],
-	["Retai Spark Ex (BeatMario (COOL&CREATE)) - A7A Marisa",							new Set([TITLE.RETRO]), { title: "RETRO", }, "sQN-HEf6gDU", "A7A Marisa", ORIGINAL_TRACK, BOSS_THEME],
+	["Retai Spark Ex (beatMARIO (COOL&CREATE)) - A7A Marisa",							new Set([TITLE.RETRO]), { title: "RETRO", }, "sQN-HEf6gDU", "A7A Marisa", ORIGINAL_TRACK, BOSS_THEME],
 	["Party Sakuya (Morimori Atsushi) - A7A Sakuya",									new Set([TITLE.RETRO]), { title: "RETRO", }, "IT8jI2VMo2U", "A7A Sakuya", ORIGINAL_TRACK, BOSS_THEME],
 	["A Late Night Capriccio (Butaotome) - A7B Reimu",									new Set([TITLE.RETRO]), { title: "RETRO", }, "3ArNaNDMX_I", "A7B Reimu", ORIGINAL_TRACK, BOSS_THEME],
-	["LaserMari is Not Difficult! [Guitar Inst Version] (BeatMario (COOL&CREATE)) - A7B Marisa",	new Set([TITLE.RETRO]), { title: "RETRO", }, "_dUc6_XSEwE", "A7B Marisa", ORIGINAL_TRACK, BOSS_THEME],
+	["LaserMari is Not Difficult! [Guitar Inst Version] (beatMARIO (COOL&CREATE)) - A7B Marisa",	new Set([TITLE.RETRO]), { title: "RETRO", }, "_dUc6_XSEwE", "A7B Marisa", ORIGINAL_TRACK, BOSS_THEME],
 	["The Maid and the Pocket Watch of Blood [MRM Remix[ (Morimori Atshshi) - A7B Sakuya",			new Set([TITLE.RETRO]), { title: "RETRO", }, "ZS5GkZKaOR8", "A7B Sakuya", ORIGINAL_TRACK, BOSS_THEME],
 
 	//RETRO A8
@@ -528,7 +528,7 @@ var ary_SongData = [
 	["Rainbow Note (DGiTAL WiNG) - B5 Alice",																	new Set([TITLE.UFES]), { title: "UFES", }, "_BPgOqCGDcU", "B5 Alice", ORIGINAL_TRACK, BOSS_THEME],
 	["Stairs to Heaven (Foxtail-Grass Studio) - B5 Lunasa",														new Set([TITLE.UFES]), { title: "UFES", }, "_mX7Ihi8G40", "B5 Lunasa", ORIGINAL_TRACK, BOSS_THEME],
 	["Prismriver Sisters no UK Hardcore ni Hamatteruhou (Morimori Atsushi) - B5 Merlin",						new Set([TITLE.UFES]), { title: "UFES", }, "T0wKLHEgzTQ", "B5 Merlin", ORIGINAL_TRACK, BOSS_THEME],
-	["Sissou Ensemble (BeatMario (COOL&CREATE)) - B5 Lyrica",													new Set([TITLE.UFES]), { title: "UFES", }, "-6fmb3NxUBw", "B5 Lyrica", ORIGINAL_TRACK, BOSS_THEME],
+	["Sissou Ensemble (beatMARIO (COOL&CREATE)) - B5 Lyrica",													new Set([TITLE.UFES]), { title: "UFES", }, "-6fmb3NxUBw", "B5 Lyrica", ORIGINAL_TRACK, BOSS_THEME],
 	["Ghost Parade (Hachimitsu-Lemon) - B5 Yuyuko",																new Set([TITLE.UFES]), { title: "UFES", }, "iRjsqclePco", "B5 Yuyuko", ORIGINAL_TRACK, BOSS_THEME],
 	["Necromancer (Ganame) - B5 Yukari",																		new Set([TITLE.UFES]), { title: "UFES", }, "1__FgfkK4eE", "B5 Yukari", ORIGINAL_TRACK, BOSS_THEME],
 	["Reisen-Round Gothic StdN V8 (flap+frog) - B5 Reisen",														new Set([TITLE.UFES]), { title: "UFES", }, "4QwMbcoKPFA", "B5 Reisen", ORIGINAL_TRACK, BOSS_THEME],
@@ -589,4 +589,112 @@ var ary_SongData = [
 	["Fate-Maniac Sadistic [Karaoke Ver] (IOSYS) - Z3 Remilia",													new Set([TITLE.UFES]), { title: "UFES", }, "6kOsbg_hnbc", "Z3 Remilia", ORIGINAL_TRACK, BOSS_THEME],
 	["Marisa Stole the Precious Thing [Karaoke Ver] (IOSYS) - Z3 Alice",										new Set([TITLE.UFES]), { title: "UFES", }, "m6JUTm-a2NI", "Z3 Alice", ORIGINAL_TRACK, BOSS_THEME],
 	["Ability to Read the Heart of Love (IOSYS) - Z3 Satori",													new Set([TITLE.UFES]), { title: "UFES", }, "rnwd_eWllvU", "Z3 Satori", ORIGINAL_TRACK, BOSS_THEME],
-];	
+
+	// EPIC L10.1
+	["Soul Spiker (A-ONE) - L10.1 Reimu",																		new Set([TITLE.EPIC]), { title: "EPIC", }, "pC3-SNghxYA", "L10.1 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Ms. Spark (Sekkenya) - L10.1 Marisa",																		new Set([TITLE.EPIC]), { title: "EPIC", }, "OdCP1Hl8Yj0", "L10.1 Marisa", ORIGINAL_TRACK, BOSS_THEME],
+	["Ichiya No Hana (TUMENECO) - L10.1 Sakuya",																new Set([TITLE.EPIC]), { title: "EPIC", }, "2W4cfSWpQzE", "L10.1 Sakuya", ORIGINAL_TRACK, BOSS_THEME],
+	["LastWorld (beatMARIO (COOL&CREATE)) - L10.1 Remilia",														new Set([TITLE.EPIC]), { title: "EPIC", }, "jefIZjGlM8w", "L10.1 Remilia", ORIGINAL_TRACK, BOSS_THEME],
+	["Kosugiruno (TaNaBaTa) - L10.1 Flandre",																	new Set([TITLE.EPIC]), { title: "EPIC", }, "YstOfhIlj_s", "L10.1 Flandre", ORIGINAL_TRACK, BOSS_THEME],
+	["YUUNAGI MITORETE (Reirou no Hydrangea) - L10.1 Youmu",													new Set([TITLE.EPIC]), { title: "EPIC", }, "IT8KZ_7WXLQ", "L10.1 Youmu", ORIGINAL_TRACK, BOSS_THEME],
+
+	// EPIC LAA1
+	["Second Hand Overtake (karuinemuri) - LAA1 Sakuya",														new Set([TITLE.EPIC]), { title: "EPIC", }, "QWSwIwQjInM", "LAA1 Sakuya", ORIGINAL_TRACK, BOSS_THEME],
+
+	// EPIC C SUMMER
+	["Kyouen (Butaotome) - C3 Reimu",																			new Set([TITLE.EPIC]), { title: "EPIC", }, "zUd0-jWB6n0", "C3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Meteor Spectrum (Foxtail-Grass Studio) - C3 Marisa",														new Set([TITLE.EPIC]), { title: "EPIC", }, "KhtyYsGf6xc", "C3 Marisa", ORIGINAL_TRACK, BOSS_THEME],
+	["Tokonatu☆Holiday (D-Drive) - C3 Cirno",																	new Set([TITLE.EPIC]), { title: "EPIC", }, "UxRPDzit08I", "C3 Cirno", ORIGINAL_TRACK, BOSS_THEME],
+	["Denkosekka ~ Stop in Motion (Konpeki studio)- C3 Sakuya",													new Set([TITLE.EPIC]), { title: "EPIC", }, "IuikSVZW_jo", "C3 Sakuya", ORIGINAL_TRACK, BOSS_THEME],
+	["Remilia Out for a Walk (Zyukucho (COOL&CREATE)) - C3 Remilia",											new Set([TITLE.EPIC]), { title: "EPIC", }, "A6j2kCYDjbk", "C3 Remilia", ORIGINAL_TRACK, BOSS_THEME],
+	["Crime & Punishment's Filet Mignon and Foie Gras (Butaotome) - C3 Flandre",								new Set([TITLE.EPIC]), { title: "EPIC", }, "FpxPWfDLY-0", "C3 Flandre", ORIGINAL_TRACK, BOSS_THEME],
+	["Nanairo (Water Color Melody.) - C3 Alice",																new Set([TITLE.EPIC]), { title: "EPIC", }, "Djm-0wKnKpc", "C3 Alice", ORIGINAL_TRACK, BOSS_THEME],
+	["Sing in the World of Madness (Inorai) - C3 Youmu",														new Set([TITLE.EPIC]), { title: "EPIC", }, "2Z26zFGGG9E", "C3 Youmu", ORIGINAL_TRACK, BOSS_THEME],
+	["Midsummer Cherry Blossoms (Fuling Cat Mark Coconuts) - C3 Yuyuko",										new Set([TITLE.EPIC]), { title: "EPIC", }, "l4zvdBPBRRo", "C3 Yuyuko", ORIGINAL_TRACK, BOSS_THEME],
+	["Just One Tiny Lie (Foxtail-Grass Studio) - C3 Yukari",													new Set([TITLE.EPIC]), { title: "EPIC", }, "4DUfCNvwLCQ", "C3 Yukari", ORIGINAL_TRACK, BOSS_THEME],
+	["Wind Vox (Silver Forest) - C3 Mystia",																	new Set([TITLE.EPIC]), { title: "EPIC", }, "klgSSjN04cU", "C3 Mystia", ORIGINAL_TRACK, BOSS_THEME],
+	["Last River (Amateras Records) - C3 Komachi",																new Set([TITLE.EPIC]), { title: "EPIC", }, "D8WZebniTZg", "C3 Komachi", ORIGINAL_TRACK, BOSS_THEME],
+	["Gensou No Panorama (Touhou Jihen) - C3 Sanae",															new Set([TITLE.EPIC]), { title: "EPIC", }, "oWrYqi18yzY", "C3 Sanae", ORIGINAL_TRACK, BOSS_THEME],
+	["Nanka Sugoi! (TaNaBaTa) - C3 Tenshi",																		new Set([TITLE.EPIC]), { title: "EPIC", }, "bODfDrmhTzQ", "C3 Tenshi", ORIGINAL_TRACK, BOSS_THEME],
+	["Underground Fortress (Butaotome) - C3 Satori",															new Set([TITLE.EPIC]), { title: "EPIC", }, "R4QoMUZSp4E", "C3 Satori", ORIGINAL_TRACK, BOSS_THEME],
+	["Probably Behind You Now (Butaotome) - C3 Koishi",															new Set([TITLE.EPIC]), { title: "EPIC", }, "CHawem92Pd0", "C3 Koishi", ORIGINAL_TRACK, BOSS_THEME],
+	["Droplet (Para-Dot) - C3 Kogasa",																			new Set([TITLE.EPIC]), { title: "EPIC", }, "GqpE8ESstPM", "C3 Kogasa", ORIGINAL_TRACK, BOSS_THEME],
+	["Even It's an Illusion in a Dream (Yuuhei Satellite) - C3 Byakuren",										new Set([TITLE.EPIC]), { title: "EPIC", }, "r0dom9PITE8", "C3 Byakuren", ORIGINAL_TRACK, BOSS_THEME],
+	["KASODANI☆Festa!! (K2E+Cradle) - C3 Kyouko",																new Set([TITLE.EPIC]), { title: "EPIC", }, "Usby7nqi4cI", "C3 Kyouko", ORIGINAL_TRACK, BOSS_THEME],
+	["SUMMER JUSTICE (Chocofan) - C3 Miko",																		new Set([TITLE.EPIC]), { title: "EPIC", }, "6LEMeT26SsM", "C3 Miko", ORIGINAL_TRACK, BOSS_THEME],
+	["BEYOND THE MASKS (Hatsunetsumiko's) - C3 Kokoro",															new Set([TITLE.EPIC]), { title: "EPIC", }, "-_D1Dfrkrd4", "C3 Kokoro", ORIGINAL_TRACK, BOSS_THEME],
+	["Summer Sea Glass (Water Color Melody.) - C3 Wakasagihime",												new Set([TITLE.EPIC]), { title: "EPIC", }, "iuPBVXzmsRs", "C3 Wakasagihime", ORIGINAL_TRACK, BOSS_THEME],
+	["appletea (Para-Dot) - C3 Sekibanki",																		new Set([TITLE.EPIC]), { title: "EPIC", }, "gL7FIeqhiAE", "C3 Sekibanki", ORIGINAL_TRACK, BOSS_THEME],
+	["This Isn't Paradise But (Butaotome) - C3 Hecatia",														new Set([TITLE.EPIC]), { title: "EPIC", }, "UYvXc_soo14", "C3 Hecatia", ORIGINAL_TRACK, BOSS_THEME],
+	["Selfish Behavior (Alstroemeria Records) - C3 Joon",														new Set([TITLE.EPIC]), { title: "EPIC", }, "_pjKfhp2T-M", "C3 Joon", ORIGINAL_TRACK, BOSS_THEME],
+	["BILLION $ GIRL (SOUND HOLIC feat. Nana Takahashi) - C3 Shion",											new Set([TITLE.EPIC]), { title: "EPIC", }, "zNrttx25t4U", "C3 Shion", ORIGINAL_TRACK, BOSS_THEME],
+	["Salvation Wind (ZYTOKINE) - C3 Narumi",																	new Set([TITLE.EPIC]), { title: "EPIC", }, "boSDhKufQ64", "C3 Narumi", ORIGINAL_TRACK, BOSS_THEME],
+	["Make or Break (Akatsuki Records) - C3 Kasen",																new Set([TITLE.EPIC]), { title: "EPIC", }, "yQS6Hvvl5vk", "C3 Kasen", ORIGINAL_TRACK, BOSS_THEME],
+	["B.E.E.R [Karaoke Ver] (IOSYS) - C3 Miyoi",																new Set([TITLE.EPIC]), { title: "EPIC", }, "PUSQS5Jz8y0", "C3 Miyoi", ORIGINAL_TRACK, BOSS_THEME],
+	["MARRY SUN [Game Size] (A-ONE) - Cz1 Marisa",																new Set([TITLE.EPIC]), { title: "EPIC", }, "Mayf-GaCFnM", "Cz1 Marisa", ORIGINAL_TRACK, BOSS_THEME],
+	["Dreamwept (R-NOTE) - Ce1 Flandre",																		new Set([TITLE.EPIC]), { title: "EPIC", }, "n5hep7epS-g", "Ce1 Flandre", ORIGINAL_TRACK, BOSS_THEME],
+	["Melting Summer Never Ends! (MN-logic24) - Ce9 Remilia",													new Set([TITLE.EPIC]), { title: "EPIC", }, "m7_CHaoIT74", "Ce9 Remilia", ORIGINAL_TRACK, BOSS_THEME],
+
+	// EPIC C GUN 
+	["Stop at Nothing (KIWAMI SPEED'z) - C3' Seiga",															new Set([TITLE.EPIC]), { title: "EPIC", }, "tMZJ0sSyGHw", "C3' Seiga", ORIGINAL_TRACK, BOSS_THEME],
+	["Moon White Star (A-ONE) - C3' Junko",																		new Set([TITLE.EPIC]), { title: "EPIC", }, "Ba_pM_Nli94", "C3' Junko", ORIGINAL_TRACK, BOSS_THEME],
+	["流転 (少年ヴィヴィッド) - C3' Nemuno",																		new Set([TITLE.EPIC]), { title: "EPIC", }, "N2PJepN43YE", "C3' Nemuno", ORIGINAL_TRACK, BOSS_THEME],
+	["リバーベッド・ブルース (route9) - C3' Urumi",																new Set([TITLE.EPIC]), { title: "EPIC", }, "NWLytxSufRM", "C3' Urumi", ORIGINAL_TRACK, BOSS_THEME],
+
+	// EPIC C FALL 
+	["Autumn Weather Forecast (Silver Forest) - C3< Alice",														new Set([TITLE.EPIC]), { title: "EPIC", }, "3_qVtYMixHM", "C3< Alice", ORIGINAL_TRACK, BOSS_THEME],
+	["Ayayaya-Shutter Chance! (Chocofan) - C3< Aya",															new Set([TITLE.EPIC]), { title: "EPIC", }, "kTdjZRo_EHg", "C3< Aya", ORIGINAL_TRACK, BOSS_THEME],
+	["Drive for First (AzitamaTeisyoku) - C3< Nitori",															new Set([TITLE.EPIC]), { title: "EPIC", }, "N5_9i7DMNQM", "C3< Nitori", ORIGINAL_TRACK, BOSS_THEME],
+	["GENSOKYO KILLER MARKET (feat. Nana Takahashi & 709sec.) - C3< Chimata",									new Set([TITLE.EPIC]), { title: "EPIC", }, "Fiwy_weyBLY", "C3< Chimata", ORIGINAL_TRACK, BOSS_THEME],
+
+	// EPIC C MAID 
+	["Thrill of Desire (My smoky lover) - C3~ Yoshika",															new Set([TITLE.EPIC]), { title: "EPIC", }, "qINlqybvWeU", "C3~ Yoshika", ORIGINAL_TRACK, BOSS_THEME],
+	["Kairaku Mislead (Dimension's Gate) - C3~ Tsukasa",														new Set([TITLE.EPIC]), { title: "EPIC", }, "solnbr66GhU", "C3~ Tsukasa", ORIGINAL_TRACK, BOSS_THEME],
+
+	// EPIC C NURSE
+	["Hopping Rabbit (Amateras Records) - C3∫ Reisen",															new Set([TITLE.EPIC]), { title: "EPIC", }, "n48SRfs_KhQ", "C3∫ Reisen", ORIGINAL_TRACK, BOSS_THEME],
+	["Seigaku no Arcana (Konpeki studio) - C3∫ Sagume",															new Set([TITLE.EPIC]), { title: "EPIC", }, "MJRYijhtnmE", "C3∫ Sagume", ORIGINAL_TRACK, BOSS_THEME],
+
+	// EPIC C YUKATA
+	["Echoflare (MD) - C3≤ Komachi",																			new Set([TITLE.EPIC]), { title: "EPIC", }, "ov7KZdBm50I", "C3≤ Komachi", ORIGINAL_TRACK, BOSS_THEME],
+	["Yonagi Hanabi (Lampcat) - C3≤ Clownpiece",																new Set([TITLE.EPIC]), { title: "EPIC", }, "aI1lVrYosPU", "C3≤ Clownpiece", ORIGINAL_TRACK, BOSS_THEME],
+
+	// EPIC C MECHA
+	["Lost Within the Darkside (KIWAMI SPEED'z) - C3≥ Hina",													new Set([TITLE.EPIC]), { title: "EPIC", }, "BcMomJBLm6E", "C3≥ Hina", ORIGINAL_TRACK, BOSS_THEME],
+	["TamaTamaTamasaka (Akatsuki Records) - C3≥ Nitori",														new Set([TITLE.EPIC]), { title: "EPIC", }, "Pfa5a24vRhY", "C3≥ Nitori", ORIGINAL_TRACK, BOSS_THEME],
+
+	// EPIC C FOSSIL
+	["Across the Domain (Konpeki studio) - C3≫ Toyohime",														new Set([TITLE.EPIC]), { title: "EPIC", }, "9h0qNVjnNko", "C3≫ Toyohime", ORIGINAL_TRACK, BOSS_THEME],
+	["Pascha (Lapis Ianta Rose) - C3≫ Yorihime",																new Set([TITLE.EPIC]), { title: "EPIC", }, "qixsIqqDYYo", "C3≫ Yorihime", ORIGINAL_TRACK, BOSS_THEME],
+
+	// EPIC C WINTER
+	["Snow,moon,and flowers-I think of you. (MN-logic24) - C3= Kaguya",											new Set([TITLE.EPIC]), { title: "EPIC", }, "-1JMZMRv8Uo", "C3= Kaguya", ORIGINAL_TRACK, BOSS_THEME],
+	["everlasting ember (凋叶棕 -Diao ye zong-) - C3= Mokou",													new Set([TITLE.EPIC]), { title: "EPIC", }, "9g_LyOYBycE", "C3= Mokou", ORIGINAL_TRACK, BOSS_THEME],
+
+	// EPIC C SPRING
+	["Harubure (Girls Logic Observatory) - C5> Flandre",														new Set([TITLE.EPIC]), { title: "EPIC", }, "dXSh0PRBmrU", "C5> Flandre", ORIGINAL_TRACK, BOSS_THEME],
+	["Softwake (Hatsunetsumiko's) - C5> Eiki",																	new Set([TITLE.EPIC]), { title: "EPIC", }, "p-15BtBD4S8", "C5> Eiki", ORIGINAL_TRACK, BOSS_THEME],
+	["Innocent Malice (GET IN THE RING) - C5> Koishi",															new Set([TITLE.EPIC]), { title: "EPIC", }, "9F0yi6iN16w", "C5> Koishi", ORIGINAL_TRACK, BOSS_THEME],
+	["Shoutoku the LEGEND (Mascarpone) - C5> Miko",																new Set([TITLE.EPIC]), { title: "EPIC", }, "Du6uX0Ivj7o", "C5> Miko", ORIGINAL_TRACK, BOSS_THEME],
+	["Across the Domain (Konpeki studio) - C5> Hecatia",														new Set([TITLE.EPIC]), { title: "EPIC", }, "9h0qNVjnNko", "C5> Hecatia", ORIGINAL_TRACK, BOSS_THEME],
+	["Haruoi (Nostrilia) - C5> Saki",																			new Set([TITLE.EPIC]), { title: "EPIC", }, "_96glZ9Izcs", "C5> Saki", ORIGINAL_TRACK, BOSS_THEME],
+	["TENOHARA Nihilism (Honey Pocket) - C5> Zanmu",															new Set([TITLE.EPIC]), { title: "EPIC", }, "dztojIbHps0", "C5> Zanmu", ORIGINAL_TRACK, BOSS_THEME],
+
+	// EPIC C VILLAIN
+	["Alter Ego (route9) - C8≪ Koishi",																		new Set([TITLE.EPIC]), { title: "EPIC", }, "oOltM2QXiww", "C8≪ Koishi", ORIGINAL_TRACK, BOSS_THEME],
+	["FANG (Touhou Jihen) - C8≪ Kokoro",																		new Set([TITLE.EPIC]), { title: "EPIC", }, "jrHmDME9Y-s", "C8≪ Kokoro", ORIGINAL_TRACK, BOSS_THEME],
+
+	// EPIC C NY
+	["Cyber Play - Destructive Drunken All-Nighter (Girls Logic Observatory) - Cb3# Youmu",						new Set([TITLE.EPIC]), { title: "EPIC", }, "D4rdttp58Ok", "Cb3# Youmu", ORIGINAL_TRACK, BOSS_THEME],
+	["Happy New Word☆ (D-Drive) - Cb3# Reisen",																new Set([TITLE.EPIC]), { title: "EPIC", }, "6N9sjRDFcKY", "Cb3# Reisen", ORIGINAL_TRACK, BOSS_THEME],
+	["Seitenhakujitsu! (Butaotome) - Cf1# Reimu",																new Set([TITLE.EPIC]), { title: "EPIC", }, "3pCXlxJZKSM", "Cf1# Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Dancing in Love (R-NOTE) - Cf1# Koishi",																	new Set([TITLE.EPIC]), { title: "EPIC", }, "05TumlUBN4o", "Cf1# Koishi", ORIGINAL_TRACK, BOSS_THEME],
+	["KAKARANAI Hypnotism (Honey Pocket) - Cs2# Satori",														new Set([TITLE.EPIC]), { title: "EPIC", }, "vy_KFQXoUZw", "Cs2# Satori", ORIGINAL_TRACK, BOSS_THEME],
+	["Eiganoyume (Reirou no Hydrangea) - Cz1# Marisa",															new Set([TITLE.EPIC]), { title: "EPIC", }, "dJGZPeEXSec", "Cz1# Marisa", ORIGINAL_TRACK, BOSS_THEME],
+
+	// EPIC F
+	["Red Dreamer (IOSYS) - F1 Reimu",																			new Set([TITLE.EPIC]), { title: "EPIC", }, "wP1mvDuEzGg", "F1 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Mahoutukaino Shinjitu (EastNewSound) - F1 Marisa",														new Set([TITLE.EPIC]), { title: "EPIC", }, "xLALPQwri4c", "F1 Marisa", ORIGINAL_TRACK, BOSS_THEME],
+	["Sanae to Love (Zyukucho (COOL&CREATE)) - F1 Sanae",														new Set([TITLE.EPIC]), { title: "EPIC", }, "RQPOd15-090", "F1 Sanae", ORIGINAL_TRACK, BOSS_THEME],
+	["Hartmann's Youkai Girl (Marasy) - F1 Koishi",																new Set([TITLE.EPIC]), { title: "EPIC", }, "JljDFwXTMVY", "F1 Koishi", ORIGINAL_TRACK, BOSS_THEME],
+];
