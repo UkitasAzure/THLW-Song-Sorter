@@ -130,7 +130,7 @@ var ary_SongData = [
 	["The Troublesome Black Cat's Travelogue (ShibayanRecords, O-LIFE JAPAN) - Chen",	new Set([TITLE.L1]), { title: "L1", }, "ZdO5p9LaVn0", "L1 Chen", ORIGINAL_TRACK, BOSS_THEME],
 	["Iris (Foxtail-Grass Studio) - Alice",												new Set([TITLE.L1]), { title: "L1", }, "tzDdQaT8xQE", "L1 Alice", ORIGINAL_TRACK, BOSS_THEME],
 	["Path by the Murmuring Stream (Foxtail-Grass Studio) - Lily White",		   		new Set([TITLE.L1]), { title: "L1", }, "Fp3AgbW6C7w", "L1 Lily White", ORIGINAL_TRACK, BOSS_THEME],
-	["Ghostly Band ~ Phantom Ensemble (Kokyo Active NEETs) - Prismriver Sister",		new Set([TITLE.L1]), { title: "L1", }, "pzjW24W_o_E", "L1 Lunasa, L1 Merlin, L1 Lyrica", ORIGINAL_TRACK, BOSS_THEME],
+	["Ghostly Band ~ Phantom Ensemble (Kokyo Active NEETs) - Prismriver Sister",		new Set([TITLE.L1]), { title: "L1", }, "pzjW24W_o_E", "L1 Prismriver", ORIGINAL_TRACK, BOSS_THEME],
 	["Unpaid Gardener (O-LIFE JAPAN) - Youmu",											new Set([TITLE.L1]), { title: "L1", }, "aW6-FgwqMi0", "L1 Youmu", ORIGINAL_TRACK, BOSS_THEME],
 	["BORDER OF STRIKE (beatMARIO (COOL&CREATE)) - Yuyuko",								new Set([TITLE.L1]), { title: "L1", }, "pdxGMoyETgY", "L1 Yuyuko", ORIGINAL_TRACK, BOSS_THEME],
 	["Indigo Dance (Melodic Taste) - Ran",												new Set([TITLE.L1]), { title: "L1", }, "pdxGMoyETgY", "L1 Ran", ORIGINAL_TRACK, BOSS_THEME],
@@ -209,7 +209,7 @@ var ary_SongData = [
 	["Metal-esque Mermaid from the Uncharted Land (O-LIFE JAPAN) - Wakasagihime",		new Set([TITLE.L1]), { title: "L1", }, "p0TV2f-V_is", "L1 Wakasagihime", ORIGINAL_TRACK, BOSS_THEME],
 	["Dorodoro-Don (O-LIFE JAPAN) - Sekibanki",											new Set([TITLE.L1]), { title: "L1", }, "v_qQfh3ubWU", "L1 Sekibanki", ORIGINAL_TRACK, BOSS_THEME],
 	["Enjoying The Full Moon (O-LIFE JAPAN) - Kagerou",									new Set([TITLE.L1]), { title: "L1", }, "dJc4oMK78II", "L1 Kagerou", ORIGINAL_TRACK, BOSS_THEME],
-	["A Tangle of Purple and Brown (O-LIFE JAPAN) - Tsukumo Sister",		   			new Set([TITLE.L1]), { title: "L1", }, "MPZK3pwGWhI", "L1 Benben & L1 Yatsuhashi", ORIGINAL_TRACK, BOSS_THEME],
+	["A Tangle of Purple and Brown (O-LIFE JAPAN) - Tsukumo Sister",		   			new Set([TITLE.L1]), { title: "L1", }, "MPZK3pwGWhI", "L1 Tsukumo Sister", ORIGINAL_TRACK, BOSS_THEME],
 	["Lossy Logic (AramiTama) - Seija",													new Set([TITLE.L1]), { title: "L1", }, "_nBUKRwGRKI", "L1 Seija", ORIGINAL_TRACK, BOSS_THEME],
 	["Metal-esque Corpse Voyage (O-LIFE JAPAN) - Rin",									new Set([TITLE.L1]), { title: "L1", }, "FcR00PHHnak", "L1 Rin", ORIGINAL_TRACK, BOSS_THEME],
 	["Castle Rave (DiGiTAL WiNG) - Shinmyoumaru",										new Set([TITLE.L1]), { title: "L1", }, "Ng5h92MDggU", "L1 Shinmyoumaru", ORIGINAL_TRACK, BOSS_THEME],
@@ -280,7 +280,7 @@ var ary_SongData = [
 	["Narcoleptic Dream (Butaotome) - Luna",											new Set([TITLE.L1]), { title: "L1", }, "_8XlWWO_mvA", "L1 Luna", ORIGINAL_TRACK, BOSS_THEME],
 	["Getting Brighter (Butaotome) - Star",												new Set([TITLE.L1]), { title: "L1", }, "sf9vkmm6qUg", "L1 Star", ORIGINAL_TRACK, BOSS_THEME],
 	["Winter Lament x Nostalgia (Butaotome) - Akyuu",		   							new Set([TITLE.L1]), { title: "L1", }, "tQ2fE_C8FUo", "L1 Akyuu", ORIGINAL_TRACK, BOSS_THEME],
-	["God Slash (O-LIFE JAPAN) - Watatsuki Sister",										new Set([TITLE.L1]), { title: "L1", }, "_aSaKSEmy2w", "L1 Toyohime & L1 Yorihime", ORIGINAL_TRACK, BOSS_THEME],
+	["God Slash (O-LIFE JAPAN) - Watatsuki Sister",										new Set([TITLE.L1]), { title: "L1", }, "_aSaKSEmy2w", "L1 Watatsuki", ORIGINAL_TRACK, BOSS_THEME],
 	["La Belle Au Bois Dormant (flap+frog) - Kasen",									new Set([TITLE.L1]), { title: "L1", }, "BkbRTFCvURg", "L1 Kasen", ORIGINAL_TRACK, BOSS_THEME],
 	["Suzurine (AramiTama) - Kosuzu",													new Set([TITLE.L1]), { title: "L1", }, "QEdT_eg06rM", "L1 Kosuzu", ORIGINAL_TRACK, BOSS_THEME],
 	["21nHAND (Cajiva's Gadget Shop) - Ibaraki-Douji's Arm",							new Set([TITLE.L1]), { title: "L1", }, "rdB8HrZ2VPk", "L1 Kasen Arm", ORIGINAL_TRACK, BOSS_THEME],
@@ -697,4 +697,5 @@ var ary_SongData = [
 	["Mahoutukaino Shinjitu (EastNewSound) - F1 Marisa",														new Set([TITLE.EPIC]), { title: "EPIC", }, "xLALPQwri4c", "F1 Marisa", ORIGINAL_TRACK, BOSS_THEME],
 	["Sanae to Love (Zyukucho (COOL&CREATE)) - F1 Sanae",														new Set([TITLE.EPIC]), { title: "EPIC", }, "RQPOd15-090", "F1 Sanae", ORIGINAL_TRACK, BOSS_THEME],
 	["Hartmann's Youkai Girl (Marasy) - F1 Koishi",																new Set([TITLE.EPIC]), { title: "EPIC", }, "JljDFwXTMVY", "F1 Koishi", ORIGINAL_TRACK, BOSS_THEME],
-];
+
+]];
