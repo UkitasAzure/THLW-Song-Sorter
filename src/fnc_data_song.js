@@ -698,4 +698,4 @@ var ary_SongData = [
 	["Sanae to Love (Zyukucho (COOL&CREATE)) - F1 Sanae",														new Set([TITLE.EPIC]), { title: "EPIC", }, "RQPOd15-090", "F1 Sanae", ORIGINAL_TRACK, BOSS_THEME],
 	["Hartmann's Youkai Girl (Marasy) - F1 Koishi",																new Set([TITLE.EPIC]), { title: "EPIC", }, "JljDFwXTMVY", "F1 Koishi", ORIGINAL_TRACK, BOSS_THEME],
 
-]];
+];
