@@ -697,5 +697,4 @@ var ary_SongData = [
 	["Mahoutukaino Shinjitu (EastNewSound) - F1 Marisa",														new Set([TITLE.EPIC]), { title: "EPIC", }, "xLALPQwri4c", "F1 Marisa", ORIGINAL_TRACK, BOSS_THEME],
 	["Sanae to Love (Zyukucho (COOL&CREATE)) - F1 Sanae",														new Set([TITLE.EPIC]), { title: "EPIC", }, "RQPOd15-090", "F1 Sanae", ORIGINAL_TRACK, BOSS_THEME],
 	["Hartmann's Youkai Girl (Marasy) - F1 Koishi",																new Set([TITLE.EPIC]), { title: "EPIC", }, "JljDFwXTMVY", "F1 Koishi", ORIGINAL_TRACK, BOSS_THEME],
-
 ];
