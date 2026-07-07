@@ -76,7 +76,7 @@ const getTitleData = function (songTitleDataObj) {
 
 const CATEGORY = deepFreeze({
 	L1: { name: "L1 Universe", titles: ["L1"], height: "240px", },
-	Multiverses: { name: "Other Multiverses", titles: ["RETRO", "UFES", "MV", "GENIC", "EXFES", "PH", "EPIC", "PFES", "MM", "BP", "UY"], height: "120px", },
+	Multiverses: { name: "Other Multiverses", titles: ["RETRO", "UFES", "MV", "GENIC", "EXFES", "PH", "EPIC", "PFES", "MM", "BP", "UY"], height: "340px", },
 	Others: { name: "Others", titles: ["STORY", "STAGE", "OTHERS"], height: "120px", },
 });
 
