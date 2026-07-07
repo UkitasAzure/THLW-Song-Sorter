@@ -366,12 +366,12 @@ var ary_SongData = [
 	["She will never forget (k-waves LAB) - A9.7 Akyuu",								new Set([TITLE.RETRO]), { title: "RETRO", }, "wrsu0uXfiBM", "A9.7 Akyuu", ORIGINAL_TRACK, BOSS_THEME],
 
 	//RETRO A10
-	["Kappappa Thinking Time (O-LIFE JAPAN) - A10 Nitori",								new Set([TITLE.RETRO]), { title: "RETRO", }, "ZuC2PFj5n0o", "A10 Nitori", ORIGINAL_TRACK, BOSS_THEME],
-	["Lives Lined Up in a Row (IOSYS) - A10 Sanae",										new Set([TITLE.RETRO]), { title: "RETRO", }, "la_Mzr925is", "A10 Sanae", ORIGINAL_TRACK, BOSS_THEME],
-	["IS THERE A GOD? (Melodic Taste) - A10 Kanako",									new Set([TITLE.RETRO]), { title: "RETRO", }, "XUlTkgk6c50", "A10 Kanako", ORIGINAL_TRACK, BOSS_THEME],
-	["God Storyteller of the Land of the Rising Sun (Foxtail-Grass Studio) - A10 Suwako",			new Set([TITLE.RETRO]), { title: "RETRO", }, "6A8jhyFRhMg", "A10 Suwako", ORIGINAL_TRACK, BOSS_THEME],
-	["Still Rabbit Run Fast. (Reset All Controllers) - A10.3 Ringo",					new Set([TITLE.RETRO]), { title: "RETRO", }, "sY6lSSIYzVY", "A10.3 Ringo", ORIGINAL_TRACK, BOSS_THEME],
-	["Locked Girl Piano String Quarte (TAMUSIC) - A10.5 Patchouli",						new Set([TITLE.RETRO]), { title: "RETRO", }, "ltl7CYF7KG4", "A10.5 Patchouli", ORIGINAL_TRACK, BOSS_THEME],
+	["Kappappa Thinking Time (O-LIFE JAPAN) - A10 Nitori",									new Set([TITLE.RETRO]), { title: "RETRO", }, "ZuC2PFj5n0o", "A10 Nitori", ORIGINAL_TRACK, BOSS_THEME],
+	["Lives Lined Up in a Row (IOSYS) - A10 Sanae",											new Set([TITLE.RETRO]), { title: "RETRO", }, "la_Mzr925is", "A10 Sanae", ORIGINAL_TRACK, BOSS_THEME],
+	["IS THERE A GOD? (Melodic Taste) - A10 Kanako",										new Set([TITLE.RETRO]), { title: "RETRO", }, "XUlTkgk6c50", "A10 Kanako", ORIGINAL_TRACK, BOSS_THEME],
+	["God Storyteller of the Land of the Rising Sun (Foxtail-Grass Studio) - A10 Suwako",	new Set([TITLE.RETRO]), { title: "RETRO", }, "6A8jhyFRhMg", "A10 Suwako", ORIGINAL_TRACK, BOSS_THEME],
+	["Still Rabbit Run Fast. (Reset All Controllers) - A10.3 Ringo",						new Set([TITLE.RETRO]), { title: "RETRO", }, "sY6lSSIYzVY", "A10.3 Ringo", ORIGINAL_TRACK, BOSS_THEME],
+	["Locked Girl Piano String Quarte (TAMUSIC) - A10.5 Patchouli",							new Set([TITLE.RETRO]), { title: "RETRO", }, "ltl7CYF7KG4", "A10.5 Patchouli", ORIGINAL_TRACK, BOSS_THEME],
 
 	//RETRO A11
 	["Satori Maiden (Kokyo Active NEETs) - A11 Satori",									new Set([TITLE.RETRO]), { title: "RETRO", }, "Gwec7HxsDfs", "A11 Satori", ORIGINAL_TRACK, BOSS_THEME],
@@ -393,7 +393,7 @@ var ary_SongData = [
 	["EINE KLEINE NADEL MUSIK (ZYTOKINE) - A14 Shinmyoumaru",							new Set([TITLE.RETRO]), { title: "RETRO", }, "n9DMH9BVw7s", "A14 Shinmyoumaru", ORIGINAL_TRACK, BOSS_THEME],
 
 	//RETRO A16
-	["Forbidden Fixer (zi-ku-ka) - A16 Okina",										new Set([TITLE.RETRO]), { title: "RETRO", }, "9wYwGUKgg0A", "A16 Okina", ORIGINAL_TRACK, BOSS_THEME],
+	["Forbidden Fixer (zi-ku-ka) - A16 Okina",											new Set([TITLE.RETRO]), { title: "RETRO", }, "9wYwGUKgg0A", "A16 Okina", ORIGINAL_TRACK, BOSS_THEME],
 
 	//RETRO A18
 	["Summit Flowers (The Smothered Mate) - A18 Takane",								new Set([TITLE.RETRO]), { title: "RETRO", }, "PzaZ1YUyljY", "A18 Takane", ORIGINAL_TRACK, BOSS_THEME],
@@ -493,7 +493,7 @@ var ary_SongData = [
 	["Dream Observer (Honey Pocket) - Maribel & Mugetsu",														new Set([TITLE.GENIC]), { title: "GENIC", }, "HlvAl03WrZI", "Maribel & Mugetsu", ORIGINAL_TRACK, BOSS_THEME],
 
 	//UFES Lr
-	["Akaku Somarina (Zykucho (COOL&CREATE)) - Lr Flandre",														new Set([TITLE.UFES]), { title: "UFES", }, "mCkO8enssIA", "Lr Flandre", ORIGINAL_TRACK, BOSS_THEME],
+	["Akaku Somarina (Zyukucho (COOL&CREATE)) - Lr Flandre",													new Set([TITLE.UFES]), { title: "UFES", }, "mCkO8enssIA", "Lr Flandre", ORIGINAL_TRACK, BOSS_THEME],
 	["Flutter (Hachimitsu-Lemon) - Lr Aya",																		new Set([TITLE.UFES]), { title: "UFES", }, "UFDgy_sZMfE", "Lr Aya", ORIGINAL_TRACK, BOSS_THEME],
 	["PROPELLER [take2] (flap+frog) - Lr Nitori",																new Set([TITLE.UFES]), { title: "UFES", }, "u5PzahyCWiQ", "Lr Nitori", ORIGINAL_TRACK, BOSS_THEME],
 	["But It Goes On (.New Label) - Lr Tenshi",																	new Set([TITLE.UFES]), { title: "UFES", }, "OYtJeOaGtfE", "Lr Tenshi", ORIGINAL_TRACK, BOSS_THEME],
@@ -548,7 +548,7 @@ var ary_SongData = [
 
 	// UFES H
 	["Icicle ~ Crystalized Silver (nekomimi style) - H5 Letty",													new Set([TITLE.UFES]), { title: "UFES", }, "0r2Nelqw9f0", "H5 Letty", ORIGINAL_TRACK, BOSS_THEME],
-	["Maximum Ghostly Eye (Zykucho (COOL&CREATE)) - H5 Wriggle",												new Set([TITLE.UFES]), { title: "UFES", }, "Cpk2nzFwz0c", "H5 Wriggle", ORIGINAL_TRACK, BOSS_THEME],
+	["Maximum Ghostly Eye (Zyukucho (COOL&CREATE)) - H5 Wriggle",												new Set([TITLE.UFES]), { title: "UFES", }, "Cpk2nzFwz0c", "H5 Wriggle", ORIGINAL_TRACK, BOSS_THEME],
 	["NIGHT BIRD (Morimori Atsushi) - H5 Mystia",																new Set([TITLE.UFES]), { title: "UFES", }, "1M4gGbFOweA", "H5 Mystia", ORIGINAL_TRACK, BOSS_THEME],
 	["ENDLESS MAZE [Instrumental] (Chocofan)- H5 Keine",														new Set([TITLE.UFES]), { title: "UFES", }, "3cijaQuFDGk", "H5 Keine", ORIGINAL_TRACK, BOSS_THEME],
 	["Farewell Ultramarine (Butaotome) - H5 Yuuka",																new Set([TITLE.UFES]), { title: "UFES", }, "JHfuqf5f99A", "H5 Yuuka", ORIGINAL_TRACK, BOSS_THEME],
@@ -697,4 +697,69 @@ var ary_SongData = [
 	["Mahoutukaino Shinjitu (EastNewSound) - F1 Marisa",														new Set([TITLE.EPIC]), { title: "EPIC", }, "xLALPQwri4c", "F1 Marisa", ORIGINAL_TRACK, BOSS_THEME],
 	["Sanae to Love (Zyukucho (COOL&CREATE)) - F1 Sanae",														new Set([TITLE.EPIC]), { title: "EPIC", }, "RQPOd15-090", "F1 Sanae", ORIGINAL_TRACK, BOSS_THEME],
 	["Hartmann's Youkai Girl (Marasy) - F1 Koishi",																new Set([TITLE.EPIC]), { title: "EPIC", }, "JljDFwXTMVY", "F1 Koishi", ORIGINAL_TRACK, BOSS_THEME],
+	
+	//TITLE & HOMESCREEN
+	["Melody of Guidance (Foxtail-Grass Studio)",																new Set([TITLE.OTHERS]), { title: "OTHERS", }, "YwnIVB1mXjE", "Title Screen Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["A Porch in Sunbeams Filtered Through Trees (Hachimitsu-Lemon)",											new Set([TITLE.OTHERS]), { title: "OTHERS", }, "ehAbqvlZ_ro", "Homescreen Theme", ORIGINAL_TRACK, OTHER_THEME],
+
+	//STORY
+	["You Belong Here (Butaotome)",																				new Set([TITLE.STORY]), { title: "STORY", }, "MwDoW3CIYq4", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Revolving Secret Garden (Butaotome)",																		new Set([TITLE.STORY]), { title: "STORY", }, "u-PPkMDwshI", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["HORAKHTY (Cajiva's Gadget Shop)",																			new Set([TITLE.STORY]), { title: "STORY", }, "Qitm43pUqJs", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["unbordered (Hachimitsu-Lemon)",																			new Set([TITLE.STORY]), { title: "STORY", }, "gj1ThAaUS8Q", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Passing Through the Dendera Fields at Night (Melodic Taste)",												new Set([TITLE.STORY]), { title: "STORY", }, "4c2IgYmfcd8", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Celestial Wizardry (Melodic Taste)",																		new Set([TITLE.STORY]), { title: "STORY", }, "Pq-gsBVQoBc", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["HADES (AramiTama)",																						new Set([TITLE.STORY]), { title: "STORY", }, "neD4RjkH1gY", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Beyond the Stars (Butaotome)",																			new Set([TITLE.STORY]), { title: "STORY", }, "5MwF1xMCoSA", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["To the Gap in the Evening (Melodic Taste)",																new Set([TITLE.STORY]), { title: "STORY", }, "tvOSk-XrEXk", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["epilogue (Melodic Taste)",																				new Set([TITLE.STORY]), { title: "STORY", }, "bxd0J2WODfQ", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Color of the Evening Sky (Hachimitsu-Lemon)",																new Set([TITLE.STORY]), { title: "STORY", }, "F7e30bFmqc0", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Longing of Forest (Foxtail-Grass Studio)",																new Set([TITLE.STORY]), { title: "STORY", }, "irrXn3_W3I8", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["torso (flap+frog)",																						new Set([TITLE.STORY]), { title: "STORY", }, "PrpwBcZQlj0", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["16step TR Sequencer (AramiTama)",																			new Set([TITLE.STORY]), { title: "STORY", }, "-uK8yL1fgQs", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Pilgrim (Hachimitsu-Lemon x Aftergrow)",																	new Set([TITLE.STORY]), { title: "STORY", }, "AP_qa9an5Bs", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Led On by a Cow to Visit Zenkou Temple (MRM Remix) (Morimori Atsushi)",									new Set([TITLE.STORY]), { title: "STORY", }, "MRKIvnGgfZg", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Fly up higher! (Hachimitsu-Lemon)",																		new Set([TITLE.STORY]), { title: "STORY", }, "tIs21o42E94", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Voyage 1969 (Alstroemeria Records)",																		new Set([TITLE.STORY]), { title: "STORY", }, "r1Ya03IYnog", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Frozen City (Komsoya)",																					new Set([TITLE.STORY]), { title: "STORY", }, "rnPejxOrc4s", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Kudryavka (flap+frog)",																					new Set([TITLE.STORY]), { title: "STORY", }, "-VOlKdrXhKE", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Tree of Life (Butaotome)",																				new Set([TITLE.STORY]), { title: "STORY", }, "oD01mszWpp8", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Sleeping in Dreams (O-LIFE JAPAN)",																		new Set([TITLE.STORY]), { title: "STORY", }, "ExBuQXfDWMc", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["easy vacation (flap+frog)",																				new Set([TITLE.STORY]), { title: "STORY", }, "rctgh7zB8fs", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Kinoko Takenoko (Foxtail-Grass Studio)",																	new Set([TITLE.STORY]), { title: "STORY", }, "G87Mlmf1VVU", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Until the Moment You Die (Marasy)",																		new Set([TITLE.STORY]), { title: "STORY", }, "v22reXcy-hM", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Bad Apple!! (Marasy)",																					new Set([TITLE.STORY]), { title: "STORY", }, "BSXLVpA-oC4", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["With a Hat, Necktie, and White Shirt (Foxtail-Grass Studio)",												new Set([TITLE.STORY]), { title: "STORY", }, "lc1GSTRASWs", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Two Wings [Karaoke Ver.] (IOSYS)",																		new Set([TITLE.STORY]), { title: "STORY", }, "KuOYrykXOD0", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Grimoire of RED Hell (IRON ATTACK)",																		new Set([TITLE.STORY]), { title: "STORY", }, "NaJZxwFTogA", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Gemini Star (Morimori Atsushi & Uma)",																	new Set([TITLE.STORY]), { title: "STORY", }, "_L5xEPf7cs0", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["The Centennial Festival for Magical Girls (MRM Remix)",													new Set([TITLE.STORY]), { title: "STORY", }, "w9oCDJq1_5Q", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Cool Summer (TUMENECO)",																					new Set([TITLE.STORY]), { title: "STORY", }, "xKvyaDefWEU", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Colorful Flower Salad (Butaotome)",																		new Set([TITLE.STORY]), { title: "STORY", }, "VfWvxtnipto", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["The Color of Flowers Rests Here (Hachimitsu-Lemon)",														new Set([TITLE.STORY]), { title: "STORY", }, "BglW0EKfU60", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Isn't the Spring Sky Nice? (O-LIFE JAPAN)",																new Set([TITLE.STORY]), { title: "STORY", }, "i96ItSwk1wA", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Boiler Boom (AramiTama)",																					new Set([TITLE.STORY]), { title: "STORY", }, "qLfoqgTVsAM", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Wakeful Medicine (Irish Coffee) (Butaotome)",																new Set([TITLE.STORY]), { title: "STORY", }, "5T4DW2zOkZo", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Cyan Memory (O-LIFE JAPAN)",																				new Set([TITLE.STORY]), { title: "STORY", }, "JqzgF0Ahjy0", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Akaishimaicake to KashikoiMont Blanc (Butaotome)",														new Set([TITLE.STORY]), { title: "STORY", }, "ZEA0kO1bqHY", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Yukkuri Time (IOSYS)",																					new Set([TITLE.STORY]), { title: "STORY", }, "iAPfX80WHC0", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["The Mystery in Your Town (Marasy)",																		new Set([TITLE.STORY]), { title: "STORY", }, "ZEA0kO1bqHY", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Swindler of Time and Space (AramiTama)",																	new Set([TITLE.STORY]), { title: "STORY", }, "1uSmHNojeVQ", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
+
+	//STAGE
+	["Greenwich Debris (Zyukucho (COOL&CREATE))",																new Set([TITLE.STAGE]), { title: "STAGE", }, "jjVPocDsfDA", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["α Decay (Cajiva's Gadget Shop)",																			new Set([TITLE.STAGE]), { title: "STAGE", }, "LbTz73hlvEc", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Ray May Code Zero (Tokyo Active NEETs)",																	new Set([TITLE.STAGE]), { title: "STAGE", }, "rjr9Ha1FzSc", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Mukaukasekka (beatMARIO (COOL&CREATE)",																	new Set([TITLE.STAGE]), { title: "STAGE", }, "ZnLMJCGolFQ", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Sakura, Sakura ~ Japanize Dream... (Melodic Taste)",														new Set([TITLE.STAGE]), { title: "STAGE", }, "W5trfzvY5yo", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Journey Medley School ~ Heaven STAGE 6 (Zyukucho (COOL&CREATE))",											new Set([TITLE.STAGE]), { title: "STAGE", }, "-bXxGp9Gn7Y", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Starlight Illumination (IOSYS)",																			new Set([TITLE.STAGE]), { title: "STAGE", }, "mRwgldVaikI", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Owata Fantasy Legend (Morimori Atsushi)",																	new Set([TITLE.STAGE]), { title: "STAGE", }, "Tph-cT_RUso", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["16Bit World's End (Morimori Atsushi)",																	new Set([TITLE.STAGE]), { title: "STAGE", }, "Bjb_CwOnf24", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Membrane (Alstroemeria Records)",																			new Set([TITLE.STAGE]), { title: "STAGE", }, "QGHPiIY0uXE", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Gravity Effect (Zyukucho (COOL&CREATE))",																	new Set([TITLE.STAGE]), { title: "STAGE", }, "nZdvIeSsWTU", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Miracle Object (Butaotome)",																				new Set([TITLE.STAGE]), { title: "STAGE", }, "4LFDZRO3rhs", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["H.A.L. (Morimori Atsushi)",																				new Set([TITLE.STAGE]), { title: "STAGE", }, "JzVxe7OyC1w", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Emblidar (AramiTama)",																					new Set([TITLE.STAGE]), { title: "STAGE", }, "2nxaXnJgr0U", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME]
+	
 ];	
