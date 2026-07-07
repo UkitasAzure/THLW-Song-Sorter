@@ -746,7 +746,7 @@ var ary_SongData = [
 	["The Mystery in Your Town (Marasy)",																		new Set([TITLE.STORY]), { title: "STORY", }, "ZEA0kO1bqHY", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
 	["Swindler of Time and Space (AramiTama)",																	new Set([TITLE.STORY]), { title: "STORY", }, "1uSmHNojeVQ", "Story Theme", ORIGINAL_TRACK, OTHER_THEME],
 
-	//STAGE
+	// STAGE
 	["Greenwich Debris (Zyukucho (COOL&CREATE))",																new Set([TITLE.STAGE]), { title: "STAGE", }, "jjVPocDsfDA", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
 	["α Decay (Cajiva's Gadget Shop)",																			new Set([TITLE.STAGE]), { title: "STAGE", }, "LbTz73hlvEc", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
 	["Ray May Code Zero (Tokyo Active NEETs)",																	new Set([TITLE.STAGE]), { title: "STAGE", }, "rjr9Ha1FzSc", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
@@ -761,5 +761,15 @@ var ary_SongData = [
 	["Miracle Object (Butaotome)",																				new Set([TITLE.STAGE]), { title: "STAGE", }, "4LFDZRO3rhs", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
 	["H.A.L. (Morimori Atsushi)",																				new Set([TITLE.STAGE]), { title: "STAGE", }, "JzVxe7OyC1w", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
 	["Emblidar (AramiTama)",																					new Set([TITLE.STAGE]), { title: "STAGE", }, "2nxaXnJgr0U", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME]
-	
+
+	// COLLABS
+	["Ama Kakeru (Sekkenya) - GS Reimu",																		new Set([TITLE.OTHERS]), { title: "OTHERS", }, "HE09HtY-btI", "GS Reimu Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Call Me Witch (Akatsuki Records) - GS Marisa",															new Set([TITLE.OTHERS]), { title: "OTHERS", }, "EJKPlV8rSRg", "GS Marisa Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Still Green (A-ONE) - GS Youmu",																			new Set([TITLE.OTHERS]), { title: "OTHERS", }, "7ntJ8wInCWw", "GS Youmu Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Limbo (Shinra-Bansho) - GS Yuyuko",																		new Set([TITLE.OTHERS]), { title: "OTHERS", }, "SGkLWFcfi0U", "GS Yuyuko Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Lost Word Chronicle (Touhou LostWord x RichaadEB)",														new Set([TITLE.OTHERS]), { title: "OTHERS", }, "Y1eJNx9Bo9s", "Chronicle Arrangement", ORIGINAL_TRACK, OTHER_THEME],
+	["Night Splitting Light (Touhou LostWord feat. Caleb Hyles × RichaadEB)",									new Set([TITLE.OTHERS]), { title: "OTHERS", }, "IS87I-KW_vE", "NSL Arrangement", ORIGINAL_TRACK, OTHER_THEME],
+	["Lost Word Chronicle (German EDM Arrangement) (Touhou LostWord feat. Frozen Starfall)",					new Set([TITLE.OTHERS]), { title: "OTHERS", }, "6_SeCDmBhms", "Chronicle Arrangement", ORIGINAL_TRACK, OTHER_THEME],
+	["The Heat of My Fingertips (Touhou LostWord feat. Pomu Rainpuff (NIJISANJI EN))",							new Set([TITLE.OTHERS]), { title: "OTHERS", }, "8jzcUzbPH2c", "MV Remi Arrangement", ORIGINAL_TRACK, OTHER_THEME],
+	["PHANTOM PAIN (Touhou LostWord feat. Mint Fantôme)",														new Set([TITLE.OTHERS]), { title: "OTHERS", }, "fnko4D9dQUg", "MV Kasen Arrangement", ORIGINAL_TRACK, OTHER_THEME],
 ];	
