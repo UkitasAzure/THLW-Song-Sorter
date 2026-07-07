@@ -492,101 +492,28 @@ var ary_SongData = [
 	["Unseen Yet (Diao Ye Zong) - Maribel & Mima",																new Set([TITLE.GENIC]), { title: "GENIC", }, "MbHUqkuo-vA", "Maribel & Mima", ORIGINAL_TRACK, BOSS_THEME],
 	["Dream Observer (Honey Pocket) - Maribel & Mugetsu",														new Set([TITLE.GENIC]), { title: "GENIC", }, "HlvAl03WrZI", "Maribel & Mugetsu", ORIGINAL_TRACK, BOSS_THEME],
 
-	//UFES Lr
+	//UFES
 	["Akaku Somarina (Zykucho (COOL&CREATE)) - Lr Flandre",														new Set([TITLE.UFES]), { title: "UFES", }, "mCkO8enssIA", "Lr Flandre", ORIGINAL_TRACK, BOSS_THEME],
 	["Flutter (Hachimitsu-Lemon) - Lr Aya",																		new Set([TITLE.UFES]), { title: "UFES", }, "UFDgy_sZMfE", "Lr Aya", ORIGINAL_TRACK, BOSS_THEME],
 	["PROPELLER [take2] (flap+frog) - Lr Nitori",																new Set([TITLE.UFES]), { title: "UFES", }, "u5PzahyCWiQ", "Lr Nitori", ORIGINAL_TRACK, BOSS_THEME],
 	["But It Goes On (.New Label) - Lr Tenshi",																	new Set([TITLE.UFES]), { title: "UFES", }, "OYtJeOaGtfE", "Lr Tenshi", ORIGINAL_TRACK, BOSS_THEME],
 	["Emotional Effusion (Melodic Taste) - Lr Kokoro",															new Set([TITLE.UFES]), { title: "UFES", }, "I5kjyfgRGB0", "Lr Kokoro", ORIGINAL_TRACK, BOSS_THEME],
 	["Sacred Fury (Afterglow) - Lr Ibaraki Douji's Arm",														new Set([TITLE.UFES]), { title: "UFES", }, "9tUMKSmHV4E", "Lr Arm", ORIGINAL_TRACK, BOSS_THEME],
-
-	//UFES B
 	["Gunslinger (Rolling Contact) - B1 Reisen",																new Set([TITLE.UFES]), { title: "UFES", }, "6_iPtQnkM-k", "B1 Reisen", ORIGINAL_TRACK, BOSS_THEME],
 	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B2 Junko",												new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B2 Junko", ORIGINAL_TRACK, BOSS_THEME],
 	["Special Power of Exposing Moonlit Nights? [Karaoke Ver] (IOSYS) - B3 Reimu",								new Set([TITLE.UFES]), { title: "UFES", }, "Ah8Eg1nTMA8", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
-	["Sparking Slash (IOSYS) - B3 Marisa",																		new Set([TITLE.UFES]), { title: "UFES", }, "brwZIcdgeVs", "B3 Marisa", ORIGINAL_TRACK, BOSS_THEME],
-	["Blue Knife (IOSYS) - B3 Sakuya",																			new Set([TITLE.UFES]), { title: "UFES", }, "qFCWPZq2dOI", "B3 Sakuya", ORIGINAL_TRACK, BOSS_THEME],
-	["Twilight Temple Dream (IOSYS) - B3 Youmu",																new Set([TITLE.UFES]), { title: "UFES", }, "g5X1yXqAI8s", "B3 Youmu", ORIGINAL_TRACK, BOSS_THEME],
-	["Madness Udongein [Karaoke Ver] (IOSYS) - B3 Reisen",														new Set([TITLE.UFES]), { title: "UFES", }, "qFKmunzYhPk", "B3 Reisen", ORIGINAL_TRACK, BOSS_THEME],
-	["Lunar Princess Monologue (Foxtail-Grass Studio) - B3 Kaguya",												new Set([TITLE.UFES]), { title: "UFES", }, "UApUm2CAAsw", "B3 Kaguya", ORIGINAL_TRACK, BOSS_THEME],
-	["Metal-esque Higan Retour (O-LIFE JAPAN) - B3 Komachi",													new Set([TITLE.UFES]), { title: "UFES", }, "PQugprH_N4g", "B3 Komachi", ORIGINAL_TRACK, BOSS_THEME],
-	["Dead of Alive (Amateras Record) - B3 Eiki",																new Set([TITLE.UFES]), { title: "UFES", }, "POKxcTHIVyA", "B3 Eiki", ORIGINAL_TRACK, BOSS_THEME],
-	["Judgement Star (IOSYS) - B3 Sanae",																		new Set([TITLE.UFES]), { title: "UFES", }, "sr1X-tRNkuU", "B3 Sanae", ORIGINAL_TRACK, BOSS_THEME],
-	["Mind Hacker (Jerico's Law) - B3 Kokoro",																	new Set([TITLE.UFES]), { title: "UFES", }, "tF1c_i1nrQY", "B3 Kokoro", ORIGINAL_TRACK, BOSS_THEME],
-	["Rave to the 99 Storm (DiGiTAL WiNG) - B3 Benben",															new Set([TITLE.UFES]), { title: "UFES", }, "3PcjusMUDJk", "B3 Benben", ORIGINAL_TRACK, BOSS_THEME],
-	["Gensou Zapping (nekomimi style) - B3 Yatsuhashi",															new Set([TITLE.UFES]), { title: "UFES", }, "syj9-B2_imo", "B3 Yatsuhashi", ORIGINAL_TRACK, BOSS_THEME],
-	["Phantom Dynasty (ESQUARIA) - B3 Seija",																	new Set([TITLE.UFES]), { title: "UFES", }, "NxaQ0jeUpiU", "B3 Seija", ORIGINAL_TRACK, BOSS_THEME],
-	["The Magic Hammer (Tokyo Active NEETs) - B3 Shinmy",														new Set([TITLE.UFES]), { title: "UFES", }, "HhCZcKKf1vo", "B3 Shinmy", ORIGINAL_TRACK, BOSS_THEME],
-	["Crack the Code (Rolling Contact) - B3 Raiko",																new Set([TITLE.UFES]), { title: "UFES", }, "InfzlUOVVsE", "B3 Raiko", ORIGINAL_TRACK, BOSS_THEME],
-	["Interstellar Job Post Tour Period (O-LIFE JAPAN) - B3 Seiran",											new Set([TITLE.UFES]), { title: "UFES", }, "SDbfCCcq84E", "B3 Seiran", ORIGINAL_TRACK, BOSS_THEME],
-	["Consideration from Both Sides (O-LIFE JAPAN) - B3 Ringo",													new Set([TITLE.UFES]), { title: "UFES", }, "QXChW16WI7o", "B3 Ringo", ORIGINAL_TRACK, BOSS_THEME],
-	["And She is All Alone (O-LIFE JAPAN) - B3 Sagume",															new Set([TITLE.UFES]), { title: "UFES", }, "A6S1LhGdSss", "B3 Sagume", ORIGINAL_TRACK, BOSS_THEME],
-	["Hell (AramiTama) - B3 Hecatia",																			new Set([TITLE.UFES]), { title: "UFES", }, "wtsu2uH5AM4", "B3 Hecatia", ORIGINAL_TRACK, BOSS_THEME],
-	["Echo Peak (AramiTama) - B3 Kutaka",																		new Set([TITLE.UFES]), { title: "UFES", }, "ndmPx-SwdBw", "B3 Kutaka", ORIGINAL_TRACK, BOSS_THEME],
-	["Filling Lack of the Moon (IRON ATTACK) - B3 Watatsuki",													new Set([TITLE.UFES]), { title: "UFES", }, "hMVa-GpYDCM", "B3 Watatsuki", ORIGINAL_TRACK, BOSS_THEME],
-	["Probe Suminoe (Cajiva's Gadget Shop) - B3 Rei'sen",														new Set([TITLE.UFES]), { title: "UFES", }, "tn4RsIighoo", "B3 Rei'sen", ORIGINAL_TRACK, BOSS_THEME],
-	["Rainbow Note (DGiTAL WiNG) - B5 Alice",																	new Set([TITLE.UFES]), { title: "UFES", }, "_BPgOqCGDcU", "B5 Alice", ORIGINAL_TRACK, BOSS_THEME],
-	["Stairs to Heaven (Foxtail-Grass Studio) - B5 Lunasa",														new Set([TITLE.UFES]), { title: "UFES", }, "_mX7Ihi8G40", "B5 Lunasa", ORIGINAL_TRACK, BOSS_THEME],
-	["Prismriver Sisters no UK Hardcore ni Hamatteruhou (Morimori Atsushi) - B5 Merlin",						new Set([TITLE.UFES]), { title: "UFES", }, "T0wKLHEgzTQ", "B5 Merlin", ORIGINAL_TRACK, BOSS_THEME],
-	["Sissou Ensemble (BeatMario (COOL&CREATE)) - B5 Lyrica",													new Set([TITLE.UFES]), { title: "UFES", }, "-6fmb3NxUBw", "B5 Lyrica", ORIGINAL_TRACK, BOSS_THEME],
-	["Ghost Parade (Hachimitsu-Lemon) - B5 Yuyuko",																new Set([TITLE.UFES]), { title: "UFES", }, "iRjsqclePco", "B5 Yuyuko", ORIGINAL_TRACK, BOSS_THEME],
-	["Necromancer (Ganame) - B5 Yukari",																		new Set([TITLE.UFES]), { title: "UFES", }, "1__FgfkK4eE", "B5 Yukari", ORIGINAL_TRACK, BOSS_THEME],
-	["Reisen-Round Gothic StdN V8 (flap+frog) - B5 Reisen",														new Set([TITLE.UFES]), { title: "UFES", }, "4QwMbcoKPFA", "B5 Reisen", ORIGINAL_TRACK, BOSS_THEME],
-	["Extend Ash x Reach for the Moon, Immortal Smoke (Melodic Taste) - B5 Mokou",								new Set([TITLE.UFES]), { title: "UFES", }, "xOM0FpuwgHo", "B5 Mokou", ORIGINAL_TRACK, BOSS_THEME],
-	["Typhoid Mary (AramiTama) - B5 Medicine",																	new Set([TITLE.UFES]), { title: "UFES", }, "nAcvcINnNmc", "B5 Medicine", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",											new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",												new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",											new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",											new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",												new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",											new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",											new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",												new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",											new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	["Pure Furies [ALR REMIX] (Alstroemeria Record) - B3 Reimu",											new Set([TITLE.UFES]), { title: "UFES", }, "JLBHKsgZ9qk", "B3 Reimu", ORIGINAL_TRACK, BOSS_THEME],
+	
+	
+	
 
-	// UFES E
-	["Deep in Settlement (AramiTama) - E1 Meiling",																new Set([TITLE.UFES]), { title: "UFES", }, "h4jQO83r0KE", "E1 Meiling", ORIGINAL_TRACK, BOSS_THEME],
-	["Voile, the Magic Library (Melodic Taste) - E1 Koakuma",													new Set([TITLE.UFES]), { title: "UFES", }, "xTZEYZBbu8s", "E1 Koakuma", ORIGINAL_TRACK, BOSS_THEME],
-	["Locked Girl (Melodic Taste) - E1 Patchouli",																new Set([TITLE.UFES]), { title: "UFES", }, "9HljZFy1S98", "E1 Patchouli", ORIGINAL_TRACK, BOSS_THEME],
-	["PARLOR TRICK (Cajiva's Gadget Shop) - E1 Sakuya",															new Set([TITLE.UFES]), { title: "UFES", }, "aJgZZYY0RD0", "E1 Sakuya", ORIGINAL_TRACK, BOSS_THEME],
-	["The End of Red Dreams (Nekonotsuka) - E1 Remilia",														new Set([TITLE.UFES]), { title: "UFES", }, "NJrMQmNG4g4", "E1 Remilia", ORIGINAL_TRACK, BOSS_THEME],
-	["Forbidden Scarlet Curiosity (Hachimitsu-Lemon) - E1 Flandre",												new Set([TITLE.UFES]), { title: "UFES", }, "VScDHTqU-_s", "E1 Flandre", ORIGINAL_TRACK, BOSS_THEME],
-	["Lady of the Lake (Astral Sky) - E7 Daiyousei",															new Set([TITLE.UFES]), { title: "UFES", }, "Du1T0QM19L0", "E7 Daiyousei", ORIGINAL_TRACK, BOSS_THEME],
-	["Icicle Raving (IRON ATTACK) - E7 Cirno",																	new Set([TITLE.UFES]), { title: "UFES", }, "1mKKTHlUaWY", "E7 Cirno", ORIGINAL_TRACK, BOSS_THEME],
-	["Charisma Recovery (O-LIFE JAPAN) - E9 Remilia",															new Set([TITLE.UFES]), { title: "UFES", }, "Zt6wl5flf0g", "E9 Remilia", ORIGINAL_TRACK,
-
-	// UFES H
-	["Icicle ~ Crystalized Silver (nekomimi style) - H5 Letty",													new Set([TITLE.UFES]), { title: "UFES", }, "0r2Nelqw9f0", "H5 Letty", ORIGINAL_TRACK, BOSS_THEME],
-	["Maximum Ghostly Eye (Zykucho (COOL&CREATE)) - H5 Wriggle",												new Set([TITLE.UFES]), { title: "UFES", }, "Cpk2nzFwz0c", "H5 Wriggle", ORIGINAL_TRACK, BOSS_THEME],
-	["NIGHT BIRD (Morimori Atsushi) - H5 Mystia",																new Set([TITLE.UFES]), { title: "UFES", }, "1M4gGbFOweA", "H5 Mystia", ORIGINAL_TRACK, BOSS_THEME],
-	["ENDLESS MAZE [Instrumental] (Chocofan)- H5 Keine",														new Set([TITLE.UFES]), { title: "UFES", }, "3cijaQuFDGk", "H5 Keine", ORIGINAL_TRACK, BOSS_THEME],
-	["Farewell Ultramarine (Butaotome) - H5 Yuuka",																new Set([TITLE.UFES]), { title: "UFES", }, "JHfuqf5f99A", "H5 Yuuka", ORIGINAL_TRACK, BOSS_THEME],
-	["Shirubenemu Stage2 (Cajiva's Gadget Shop) - H5 Doremy",													new Set([TITLE.UFES]), { title: "UFES", }, "aRRaNMZLtLw", "H5 Doremy", ORIGINAL_TRACK, BOSS_THEME],
-
-	// UFES R
-	["The Lure of Death (IRON ATTACK) - R2 Yuyuko",																new Set([TITLE.UFES]), { title: "UFES", }, "SsCK8BQG82w", "R2 Yuyuko", ORIGINAL_TRACK, BOSS_THEME],
-	["Snow Blossom Skyscraper (Foxtail-Grass Sudio) - R8 Youmu",												new Set([TITLE.UFES]), { title: "UFES", }, "Q3TpfoM_Dgw", "R8 Youmu", ORIGINAL_TRACK, BOSS_THEME],
-
-	// UFES S
-	["Manipulated to Dance in the Eye (Foxtail-Grass Studio) - S2 Satori",										new Set([TITLE.UFES]), { title: "UFES", }, "IIxqfco4oOI", "S2 Satori", ORIGINAL_TRACK, BOSS_THEME],
-	["Invitation of the Cat's Soul Reposing Flame (Foxtail-Grass Studio) - S5 Rin",								new Set([TITLE.UFES]), { title: "UFES", }, "PFYw5oPcy4U", "S5 Rin", ORIGINAL_TRACK, BOSS_THEME],
-	["Hell's Artifical Sun (Butaotome) - S5 Utsuho",															new Set([TITLE.UFES]), { title: "UFES", }, "vPCB3MlWPCc", "S5 Utsuho", ORIGINAL_TRACK, BOSS_THEME],
-	["Knock, Knock (Chilled Sweet Regret) - S5 Koishi",															new Set([TITLE.UFES]), { title: "UFES", }, "rjGGwyVWptM", "S5 Koishi", ORIGINAL_TRACK, BOSS_THEME],
-
-	// UFES T
-	["Ignition Time (Sound Square) - T5 Reisen",																new Set([TITLE.UFES]), { title: "UFES", }, "YJdS9DeB3Mw", "T5 Reisen", ORIGINAL_TRACK, BOSS_THEME],
-	["Soul of Eternity (zi-ku-ka) - T5 Mokou",																	new Set([TITLE.UFES]), { title: "UFES", }, "m9yuwz05b0M", "T5 Mokou", ORIGINAL_TRACK, BOSS_THEME],
-	["Catastrophe in Bhavaagra (Melodic Taste) - T5 Tenshi",													new Set([TITLE.UFES]), { title: "UFES", }, "W1pdPGVdW5A", "T5 Tenshi", ORIGINAL_TRACK, BOSS_THEME],
-	["Vairocana's Curse (IRON ATTACK) - T5 Byakuren",															new Set([TITLE.UFES]), { title: "UFES", }, "Ya8nJ4IZ7Qs", "T5 Byakuren", ORIGINAL_TRACK, BOSS_THEME],
-
-	// UFES W
-	["Perfume of Sake (Komsoya) - W1 Suika",																	new Set([TITLE.UFES]), { title: "UFES", }, "EAi87Zj7wVM", "W1 Suika", ORIGINAL_TRACK, BOSS_THEME],
-	["Just on Bust it Up! (Tokyo Active NEETs) - W2 Kanako",													new Set([TITLE.UFES]), { title: "UFES", }, "xPzi-x4Z_nw", "W2 Kanako", ORIGINAL_TRACK, BOSS_THEME],
-	["The Playful Spirit of an Indigenous God (O-LIFE JAPAN) - W2 Suwako",										new Set([TITLE.UFES]), { title: "UFES", }, "fYQy2jEOcXw", "W2 Suwako", ORIGINAL_TRACK, BOSS_THEME],
-	["Fallapart (Aftergrow) - W3 Momiji",																		new Set([TITLE.UFES]), { title: "UFES", }, "-6CV-HCxGOU", "W3 Momiji", ORIGINAL_TRACK, BOSS_THEME],
-	["Princess of Jade (Nekonotsuka) - W3 Parsee",																new Set([TITLE.UFES]), { title: "UFES", }, "Si2H9vVxZ1w", "W3 Parsee", ORIGINAL_TRACK, BOSS_THEME],
-	["Steamgirl's Exodus (k-waves LAB) - W5 Sanae",																new Set([TITLE.UFES]), { title: "UFES", }, "zotEBYPwmpU", "W5 Sanae", ORIGINAL_TRACK, BOSS_THEME],
-	["ONI TRIBE (AramiTama) - W5 Yuugi",																		new Set([TITLE.UFES]), { title: "UFES", }, "_yHIR0eUMz0", "W5 Yuugi", ORIGINAL_TRACK, BOSS_THEME],
-	["Gable Break (Cajiva's Gadget Shop) - W5 Kasen",															new Set([TITLE.UFES]), { title: "UFES", }, "hU6VXbOG4hE", "W5 Kasen", ORIGINAL_TRACK, BOSS_THEME],
-
-	// UFES Y
-	["Cinderella Cage (Melodic Taste) - Y5 Tewi",																new Set([TITLE.UFES]), { title: "UFES", }, "09PaHzoafnA", "Y5 Tewi", ORIGINAL_TRACK, BOSS_THEME],
-	["Goutan (Sound Refill) - Y5 Futo",																			new Set([TITLE.UFES]), { title: "UFES", }, "_d9pvJOhviE", "Y5 Futo", ORIGINAL_TRACK, BOSS_THEME],
-
-	// UFES Z
-	["Metal-esque Marisa Kirisame (O-LIFE JAPAN) - Z1 Marisa",													new Set([TITLE.UFES]), { title: "UFES", }, "0l_C2aHFVlE", "Z1 Marisa", ORIGINAL_TRACK, BOSS_THEME],
-	["Fate-Maniac Sadistic [Karaoke Ver] (IOSYS) - Z3 Remilia",													new Set([TITLE.UFES]), { title: "UFES", }, "6kOsbg_hnbc", "Z3 Remilia", ORIGINAL_TRACK, BOSS_THEME],
-	["Marisa Stole the Precious Thing [Karaoke Ver] (IOSYS) - Z3 Alice",										new Set([TITLE.UFES]), { title: "UFES", }, "m6JUTm-a2NI", "Z3 Alice", ORIGINAL_TRACK, BOSS_THEME],
-	["Ability to Read the Heart of Love (IOSYS) - Z3 Satori",													new Set([TITLE.UFES]), { title: "UFES", }, "rnwd_eWllvU", "Z3 Satori", ORIGINAL_TRACK, BOSS_THEME],
 ];	
