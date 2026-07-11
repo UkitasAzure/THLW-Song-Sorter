@@ -212,7 +212,7 @@ var ary_SongData = [
 	["A Tangle of Purple and Brown (O-LIFE JAPAN) - Tsukumo Sister",		   			new Set([TITLE.L1]), { title: "L1", }, "MPZK3pwGWhI", "L1 Benben & L1 Yatsuhashi", ORIGINAL_TRACK, BOSS_THEME],
 	["Lossy Logic (AramiTama) - Seija",													new Set([TITLE.L1]), { title: "L1", }, "_nBUKRwGRKI", "L1 Seija", ORIGINAL_TRACK, BOSS_THEME],
 	["Metal-esque Corpse Voyage (O-LIFE JAPAN) - Rin",									new Set([TITLE.L1]), { title: "L1", }, "FcR00PHHnak", "L1 Rin", ORIGINAL_TRACK, BOSS_THEME],
-	["Castle Rave (DiGiTAL WiNG) - Shinmyoumaru",										new Set([TITLE.L1]), { title: "L1", }, "Ng5h92MDggU", "L1 Shinmyoumaru", ORIGINAL_TRACK, BOSS_THEME],
+	["Castle Rave (DiGiTAL WiNG) - Shinmyoumaru",										new Set([TITLE.L1]), { title: "L1", }, "MpnepheCesg", "L1 Shinmyoumaru", ORIGINAL_TRACK, BOSS_THEME],
 	["Raison D'être (IOSYS) - Raiko",													new Set([TITLE.L1]), { title: "L1", }, "ucFREWg0Rto", "L1 Raiko", ORIGINAL_TRACK, BOSS_THEME],
 
 	//ULIL
@@ -751,6 +751,7 @@ var ary_SongData = [
 	["α Decay (Cajiva's Gadget Shop)",																			new Set([TITLE.STAGE]), { title: "STAGE", }, "LbTz73hlvEc", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
 	["Ray May Code Zero (Tokyo Active NEETs)",																	new Set([TITLE.STAGE]), { title: "STAGE", }, "rjr9Ha1FzSc", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
 	["Mukaukasekka (beatMARIO (COOL&CREATE)",																	new Set([TITLE.STAGE]), { title: "STAGE", }, "ZnLMJCGolFQ", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
+	["Solo Test of Courage (O-LIFE JAPAN)",																		new Set([TITLE.STAGE]), { title: "STAGE", }, "ZGI6lRps8zQ", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
 	["Sakura, Sakura ~ Japanize Dream... (Melodic Taste)",														new Set([TITLE.STAGE]), { title: "STAGE", }, "W5trfzvY5yo", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
 	["Journey Medley School ~ Heaven STAGE 6 (Zyukucho (COOL&CREATE))",											new Set([TITLE.STAGE]), { title: "STAGE", }, "-bXxGp9Gn7Y", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
 	["Starlight Illumination (IOSYS)",																			new Set([TITLE.STAGE]), { title: "STAGE", }, "mRwgldVaikI", "Stage Theme", ORIGINAL_TRACK, OTHER_THEME],
